@@ -7,7 +7,6 @@ from selectors import extract_course_data
 import os
 from typing import Literal
 
-
 OUTPUT_PATH: Literal["data/courses.json"] = os.path.join(
     os.path.dirname(os.path.dirname(__file__)),
     "data",
@@ -33,7 +32,8 @@ async def scrape_courses():
 
         all_courses = []
 
-        for idx in range(count):
+        # 25 substituted for count so we don't go through all of them
+        for idx in range(25):
             try:
                 link = course_links.nth(idx)
                 await link.scroll_into_view_if_needed()
@@ -47,11 +47,6 @@ async def scrape_courses():
                 all_courses.append(course_data)
 
                 print(f"Scraped {idx + 1}/{count}: {course_data['id']}")
-
-                # Optional: Navigate back if necessary
-                await page.go_back()
-                await page.wait_for_selector(".result__link")
-                course_links = page.locator(".result__link")  # Re-fetch links after going back
 
             except Exception as e:
                 print(f"Error scraping course {idx + 1}: {e}")
