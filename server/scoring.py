@@ -4,7 +4,7 @@ from sentence_transformers import SentenceTransformer
 
 # Initialize models once (important for speed)
 vectorizer = TfidfVectorizer(stop_words="english")
-semantic_model = SentenceTransformer('all-mpnet-base-v2')
+semantic_model = SentenceTransformer('all-MiniLM-L6-v2')
 
 def score_tfidf(user_blurb, course_list):
     documents = [user_blurb] + course_list
