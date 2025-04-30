@@ -1,5 +1,3 @@
-# scrape.py
-
 import asyncio
 import json
 from playwright.async_api import async_playwright
@@ -33,24 +31,28 @@ async def scrape_courses():
         all_courses = []
 
         # 25 substituted for count so we don't go through all of them
-        for idx in range(25):
+        for idx in range(225):
+            link = course_links.nth(idx)
+            await link.scroll_into_view_if_needed()
+            await link.click()
+
             try:
-                link = course_links.nth(idx)
-                await link.scroll_into_view_if_needed()
-                await link.click()
-
-                # Wait for course detail to load
-                await page.wait_for_selector(".dtl-course-code")
-
-                # Extract course info using selectors.py
+                await page.wait_for_selector(".dtl-course-code", timeout=10000)
                 course_data = await extract_course_data(page)
                 all_courses.append(course_data)
-
                 print(f"Scraped {idx + 1}/{count}: {course_data['id']}")
-
             except Exception as e:
                 print(f"Error scraping course {idx + 1}: {e}")
-                continue
+
+            # 🔁 Always close the panel, even if scraping failed
+            try:
+                await page.wait_for_selector(".panel__content")
+                panel = page.locator(".panel__content").nth(-1)
+                await panel.locator(".panel__back").click()
+                await page.wait_for_selector(".result__link")
+            except Exception as e:
+                print(f"Error clicking back after course {idx + 1}: {e}")
+
 
         # Save data
         with open(OUTPUT_PATH, "w", encoding="utf-8") as f:

@@ -5,32 +5,32 @@
     "description": "Literary historians generally agree that in the 1970s, in the U.S., there was a significant increase in the publication of diverse forms of African American literature. The 1970s is also often described by scholars as a decade in which there was a renaissance of African American women’s writing as well as the publication of several experimental African American literary works. In this seminar, we will study this lively period in African American literary history primarily through novels, some of them recently republished or adapted into other forms. What idea of African American literature do we get when we read novels from this era? What questions were asked in 1970s African American novels that we continue to ask now? Novels we will likely read include detective fiction, diaristic fiction, satirical fiction, a love story, and historical fiction."
   },
   {
-    "id": "AFRI 0370",
+    "id": "AFRI 0510",
     "title": "Love Stories in African Literature and Film",
     "description": "In African cinema and modern African literature, the genre of the love story is often used by artists as a medium for addressing various socio-political issues. In this seminar, we will discuss African love stories as complex narratives about romantic relationships, as political fiction, and as spaces where African artists reflect on romantic love, romantic desire, and the idea of romance. In what ways do African love stories published in the twentieth century still speak to us today? How do twenty-first century African artists use love stories to confront contemporary societal concerns?"
   },
   {
-    "id": "AFRI 0510",
+    "id": "AFRI 0807",
     "title": "Racism, Segregation, Poverty and Public Education in the United States",
     "description": "Using film, podcasts, legal history, memoir, sociology and social history, this course focuses on the past and present state of education in the United States as it both produces and ameliorates social inequality. The course explores how both primary schools, as well as colleges and universities both reflect and reproduce inequalities of opportunity along race and class lines."
   },
   {
-    "id": "AFRI 0807",
+    "id": "AFRI 0840",
     "title": "Monuments, History, and Memory in the United States",
     "description": "In the wake of the killing of George Floyd, monuments tied to the violent histories of slavery, colonialism, and white supremacy have received renewed interest and debate. Protestors and individuals have defaced, toppled, and petitioned for the removal of Confederate monuments and statues to the white male power elite. This symbolic retributive violence and sometimes ritual care signals a challenge to the long-lived monument. This reading course explores public monuments and the ways in which artists and communities have negotiated history and the politics of memory and remembrance in the United States. We will evaluate the meaning and purpose of monuments that define American public spaces, investigating the problematic narratives and historic controversies surrounding such objects. The removal of monuments asks us to question whose histories have been forgotten, ignored, or suppressed, and what monumental justice might look like."
   },
   {
-    "id": "AFRI 0840",
-    "title": "Black Lavender: Black Gay/Lesbian Plays/Dramatic Constructions in the American Theatre",
-    "description": "Study of plays with African-American LGBTQ+ content, primarily manuscripts, with a focus on thesis paper development. Creative writing option. Participation in the Black Lavender Experience required. Cross-listed with TAPS. Gender and Sexuality."
-  },
-  {
     "id": "AFRI 0990",
     "title": "Black Lavender: Black Gay/Lesbian Plays/Dramatic Constructions in the American Theatre",
     "description": "Study of plays with African-American LGBTQ+ content, primarily manuscripts, with a focus on thesis paper development. Creative writing option. Participation in the Black Lavender Experience required. Cross-listed with TAPS. Gender and Sexuality."
   },
   {
-    "id": "AFRI 0990",
+    "id": "AFRI 1050E",
+    "title": "The REAL: A Research to Performance Project",
+    "description": "The course introduces students to the Black Arts Movement (BAM), an era from approx. 1965-1975 of politically charged, socially relevant art making designed to uncover, liberate, connect, and transform Black people. BAM artists used ritual, poetry, music, song, dance, and theatre to identify, disrupt, and examine human thought and action that produced and sustained racism, poverty, colonialism, and sexism. In our class, students will study BAM manifestos, poetry, and plays designed to transform audiences. These course readings will be augmented by regular, on-your-feet, interactive workshops in BAM performance techniques such as improvisational theatre, agit-prop, and the choreopoem. Along the way, we will also dive into the origins of Brown’s own Rites & Reason Theatre (est. 1971), and the importance of community-engaged participant research in the African American theatre tradition."
+  },
+  {
+    "id": "AFRI 1098",
     "title": "Black Digital Humanities: Black Technocultures",
     "description": "What difference does Blackness make to the study of technology? This course relies on this question to foreground two important elements within the Black Digital Humanities (Black DH). First, Black scholarly approaches to the impact of technology on and in Black life and vice versa. Second, Black scholarly explorations of Black digital life and expertise. We will take a broad approach to Black DH, thinking generally about the transformative interplay between Blackness and digital technology, the extent to which digital projects can “recover” Black histories within the archive, and methodological approaches to the study of tech and digital life within Black Studies. Drawing on Black epistemologies, students will analyze digital technologies to propose new and different questions about how Blackness both (re)shapes technology and the “human” in the humanities."
   },
@@ -40,9 +40,9 @@
     "description": "Over the past several years there has been much public discussion about systemic racism, and its role in perpetuating racial inequality. What is systemic racism? What role does it play in society and how have African Americans responded to it? This course will use the lens of “systemic racism” to explore the interconnections between policies and practices that create a network of devastating forms of racial discrimination and disadvantage; conditions that have shifted over time and have made it difficult for black communities, and individuals within them, to flourish. And yet, systemic racism does not have the final word. We will also consider how African-American communities have developed various modes of resilience in cultural, spiritual/religious, artistic, and other facets of life."
   },
   {
-    "id": "AFRI 1111",
-    "title": "Systemic Racism and Modes of Resilience",
-    "description": "Over the past several years there has been much public discussion about systemic racism, and its role in perpetuating racial inequality. What is systemic racism? What role does it play in society and how have African Americans responded to it? This course will use the lens of “systemic racism” to explore the interconnections between policies and practices that create a network of devastating forms of racial discrimination and disadvantage; conditions that have shifted over time and have made it difficult for black communities, and individuals within them, to flourish. And yet, systemic racism does not have the final word. We will also consider how African-American communities have developed various modes of resilience in cultural, spiritual/religious, artistic, and other facets of life."
+    "id": "AFRI 1181",
+    "title": "Black Women Visual Artists Global Contemporary Art in the United States",
+    "description": "This class examines Black women visual artists of the African Diaspora who are based in the United States and are part of the global contemporary art scene. We will study how race, gender, sexuality, and ethnicity have forged and continued to shape Black female identity and creative production. The course is organized around three themes: (re)presenting the Black female body; globalization and migration; and performing/visualizing self and community."
   },
   {
     "id": "AFRI 1360",
@@ -50,12 +50,12 @@
     "description": "This course will explore the issues of Africana Studies as a discipline by engaging in a series of critical readings of the central texts, which laid the protocols of the discipline. The course will also raise issues of knowledge production and methodologies. This course is a senior capstone seminar. Open to all senior Africana Studies concentrators; others by instructor permission only. Enrollment limited to 25."
   },
   {
-    "id": "AFRI 1360",
-    "title": "Africana Studies: Knowledge, Texts and Methodology",
-    "description": "This course will explore the issues of Africana Studies as a discipline by engaging in a series of critical readings of the central texts, which laid the protocols of the discipline. The course will also raise issues of knowledge production and methodologies. This course is a senior capstone seminar. Open to all senior Africana Studies concentrators; others by instructor permission only. Enrollment limited to 25."
+    "id": "AFRI 1441",
+    "title": "Caribbean and Latin American Migration: Race, Gender, Community",
+    "description": "This course explores key issues in migration, especially as they relate to Latin America and the Caribbean. Viewing migration through multidisciplinary lenses, it explores the historic and contemporary forces behind the movement of people across the region; global and regional Migration regimes and their limitations; the implications of gender, race, ethnicity and class on migrant experience; the social effects of migration, especially on families; migrant survival strategies; and migrants contributions to their adopted countries, among others. The course draws from literature, film alongside academic texts representing a wide range of disciplinary perspectives to illustrate the varied approaches to think about migration and the people at the center of this phenomenon."
   },
   {
-    "id": "AFRI 1360",
+    "id": "AFRI 1510",
     "title": "Making and Remaking Blackness in the Western World",
     "description": "This course is an interdisciplinary survey of cultural, social, and political expressions of Blackness among people of African descent in the Western World, primarily the United States, and the social forces that create various understandings of this identity. Black experiences of and reflections on what it means to be Black are articulated in writing, visual and performing arts, music, and social media. Students will read, listen, and view a wide of set of materials that reflect people of African descent and their negotiation, rejection, and reimagination of different forms of Blackness in affirmative and complex ways from the 18th century to the present. Primary and secondary texts will comprise the course readings and range from cultural studies, philosophy, critical race theory, sociology, political science, literature, and history, among other areas."
   },
@@ -65,7 +65,7 @@
     "description": "This course will be a close reading of the various ideas, theories and practices of the thinkers, writers, artists and activitists whose work and practices have constituted an Africana intellectual tradition. In conducting this review we will examine questions around the formation and the history of thought and intellectual traditions in general. We will also think about the various fields of knowldege which have shaped Africana thought. The course therefore will spend some time working through the different meanings of intellectual work and critical thought and theory. Enrollment limited to 12 graduate students."
   },
   {
-    "id": "AFRI 2001",
+    "id": "AFRI 2010",
     "title": "Black Transnational Feminism",
     "description": "This graduate seminar brings together methodological and theoretical approaches to interpreting the significance of race, gender, sexuality and nation in the rich literature on Black transnationalism. The course will explore how Black feminist thought has infomed the development of the field, placing special emphasis on foundational and emergent scholarship. The course underscores the varied ways Black feminist scholarship has been crucial for understanding the complex dynamics of Black internationalist thought and praxis. Course readings will represent a combination of primary and secondary sources that reflect the geographical breadth of the African Diaspora, including Africa, the Americas, and Europe."
   },
@@ -75,24 +75,19 @@
     "description": "From 18th Century slave revolts to the iconic Haitian Revolution, the Grenadian Revolution of 1979 and the 2019 popular uprisings in the Sudan, revolts and revolutions have undoubtedly occupied a hallowed place in the political imaginaries of the Black World. Reading narratives from a select group of instances, we will explore, against the broader theoretical work on global revolutions, the more specific meaning of revolution in Africana history and literature. The overriding question is, in the face of disappointing outcomes, tragedy and collapse, can the history of Black revolt and revolution still provide a framework for thinking about radical change in the 21st Century, or should we move beyond it?"
   },
   {
-    "id": "AFRI 2015",
+    "id": "AFRI 2031",
     "title": "What Hortense Spillers Said",
     "description": "This course is devoted to understanding the work of Hortense Spillers, a preeminent black feminist theorist and critical literary scholar. In addition to reading her texts, we will track how her work is taken up by contemporary scholars in black studies and explore her archive in the John Hay Library. This class is particularly interested in tracking Spiller’s unique approach to study, what thinking about the unique position of black women does to feminist theory and black study, and the host of other texts and analytic traditions she engages across her work."
   },
   {
-    "id": "AFRI 2031",
-    "title": "What Hortense Spillers Said",
+    "id": "AFRI 2105",
+    "title": "Professionalization Seminar",
     "description": "This course explores the mechanics of a doctorate degree in Africana Studies. We will explore the constitution of our field through the elaboration of exam lists and narratives, query its pedagogical application in the design of undergraduate syllabi, and begin to outline and enact our participation in the profession both within and beyond the academy. At the end of this class, students will have constructed a portfolio that will assist their progress towards a degree and provide the tools with which to chart pathways once a degree is in hand. A key component of the professionalization courses is the construction of an undergraduate syllabus by each student, which will subsequently be revised and discussed during the dissertation proposal defense, and which will be taught in either the first semester of the student’s fourth or fifth year."
   },
   {
-    "id": "AFRI 2450",
-    "title": "Exchange Scholar Program",
-    "description": "For graduate students who have met the tuition requirement and are paying the registration fee to continue active enrollment while preparing for a preliminary examination."
-  },
-  {
     "id": "AFRI 2970",
-    "title": "Thesis Preparation",
-    "description": "For graduate students who have met the residency requirement and are continuing research on a full time basis."
+    "title": "Preliminary Examination Preparation",
+    "description": "For graduate students who have met the tuition requirement and are paying the registration fee to continue active enrollment while preparing for a preliminary examination."
   },
   {
     "id": "AFRI 2990",
@@ -100,23 +95,1013 @@
     "description": "For graduate students who have met the residency requirement and are continuing research on a full time basis."
   },
   {
-    "id": "AFRI XLIST",
+    "id": "AMST 0170F",
     "title": "Religion, Sex, Citizenship (RELS 0842)",
     "description": "Interested students must register for RELS 0842."
   },
   {
-    "id": "AMST 0170F",
+    "id": "AMST 0170H",
     "title": "Brown v. Board of Education and the History of School Desegregation (EDUC 0610)",
     "description": "Interested students must register for EDUC 0610."
   },
   {
-    "id": "AMST 0170H",
-    "title": "Brown v. Board of Education and the History of School Desegregation (EDUC 0610)",
+    "id": "AMST 0192K",
+    "title": "Rethinking Sex: Critical Approaches to Compulsory Sexuality",
     "description": "This course explores nonsexual ways of being and being-in-relation, investigating the ways in which our lives are structured not just by compulsory heterosexuality, but also by compulsory sexuality. Challenging the Freudian supposition that all human beings are sexual subjects, we will think critically about naturalized assumptions regarding sex, intimacy, attraction, and desire, opening up new frameworks, orientations, and language informed by queer and feminist discourse. We will engage sex as a form of political power whose influence extends far beyond the act of heterosexual intercourse itself, pervading and organizing our everyday lives along the lines of race, gender, ability, class, and religion. Texts will draw upon queer and feminist theory, cultural studies, disability studies, feminist science and technology studies, gender and sexuality studies, and popular culture."
   },
   {
-    "id": "AMST 0192K",
+    "id": "AMST 0610A",
     "title": "Black Queer Life",
     "description": "This course explores how Black writers and artists represent and theorize a diverse array of Black genders and sexualities. We will begin with a series of conversations on the origins of Black queer theory, and then use these conversations to anchor us in our readings of Black queer life in literary and popular culture. Reading across a range of genres, including film, music, poetry, comics, and short fiction, we will collectively consider the ways sex, gender, and sexuality work with other markers of difference and social status such as race, class, ability, and nationality to demarcate possibilities, freedoms, choices, and opportunities available to Black people. We will learn from theorists, writers, and artists including Audre Lorde, Cathy Cohen, E. Patrick Johnson, Alexis Pauline Gumbs, Danez Smith, Janelle Monae, among many others."
+  },
+  {
+    "id": "AMST 0610D",
+    "title": "Introduction to Native and Indigenous Feminisms",
+    "description": "Settler colonialism is a structure that aims to dispossess, erase, and replace Indigenous peoples in ways that are both racialized and gendered. Throughout this course, students will become familiar with the role Indigenous Feminisms have played in responding to settler colonial policies, violences, and erasures. Students will become cognizant of the contributions Indigenous Feminists make to art, literature, theory, and organizing work. Students will trace a genealogy of Indigenous Feminisms while attending to the debates that have both punctuated and propelled its theoretical and practical application. This introductory lecture course is part of the American Studies Questions series, offering a gateway to the AMST concentration, and has no prerequisites."
+  },
+  {
+    "id": "AMST 0800P",
+    "title": "Uneasy Embodiments: Racial and Gender Objecthood (TAPS 0800P)",
+    "description": "Interested students must register for TAPS 0800P."
+  },
+  {
+    "id": "AMST 1605P",
+    "title": "Channeling Race: Television and Race in America (MCM 1505P)",
+    "description": "Interested students must register for MCM 1505P."
+  },
+  {
+    "id": "AMST 1614A",
+    "title": "Critiques of Religion + Capitalism (RELS 1380E)",
+    "description": "Interested students must register for RELS 1380E."
+  },
+  {
+    "id": "AMST 1700S",
+    "title": "Native American Identity: Public Perception and Self-Determination",
+    "description": "This class examines the issues of Native American identity, primarily in the United States. The course will begin by studying historical tribal organization and classification, and the factors that have led to contemporary stereotypes and ideas of what constitutes an “Indian,” and the factors that have damaged the strength and identity of Native communities over centuries. We will discuss how misconceptions have impacted media portrayals and the American understanding of when, where, and how Native people live. The final portion of the class will discuss self-identity and self-determination through a variety of areas such as tribal enrollment, academia, and media. This course is an American Studies/Ethnic Studies Junior Seminar and is open to AMST, ETHN, and CNAIS concentrators in their junior year. Other students may register with instructor permission."
+  },
+  {
+    "id": "AMST 1800",
+    "title": "Honors Seminar",
+    "description": "This seminar is for second-semester junior American Studies and Ethnic Studies concentrators who are interested in writing an honors thesis in their senior year. The outcome of this course will be a proposal for the honors thesis along with a bibliography and a research plan and schedule. Topics covered will be the research methods associated with different disciplines; how to make the thesis interdisciplinary; integrating public projects and new media into a thesis. Open to juniors concentrating in American Studies and Ethnic Studies. Enrollment limited to 20. S/NC"
+  },
+  {
+    "id": "AMST 1905N",
+    "title": "War and the Mind in Modern America",
+    "description": "This course examines how the crucible of war has shaped modern conceptions of human nature. Moving from the Civil War to the present, we will consider questions such as changing theories of combat trauma, evolutionary and social scientific explanations for why people fight wars, and the role of memory in individual and collective understandings of violent conflicts. Students will analyze representations of war in film and literature in addition to reading historical and theoretical texts."
+  },
+  {
+    "id": "AMST 1906T",
+    "title": "Captive Voices: Atlantic Slavery in the Digital Age (HIST 1970G)",
+    "description": "Interested students must register for HIST 1970G."
+  },
+  {
+    "id": "AMST 1906U",
+    "title": "Culture as History: Making the 20th Century United States",
+    "description": "This interdisciplinary course explores selected currents in U.S. cultural history from the late nineteenth century to the end of the twentieth century. Thematic explorations trace the historical development of American cultural forms and practices, showing how transformations in communications, media, and consumption shaped Americans’ experience of capitalism and market expansion, ideas of self and society, social conflict around questions of race, class, gender, nationalism and empire, as well as immigration, migration, and social movements of both the left and right. Our broad goal will be to understand how culture came to shape how historical change unfolded in this period."
+  },
+  {
+    "id": "AMST 1907C",
+    "title": "James Baldwin (ENGL 1711S)",
+    "description": "Interested students must register for ENGL 1711S."
+  },
+  {
+    "id": "AMST 1907H",
+    "title": "Sexy Good Medicine: Sex, Gender, and Indigeneity in (the) America(s) (ETHN 1751C).",
+    "description": "Interested students must register for ETHN 1751C."
+  },
+  {
+    "id": "AMST 2220S",
+    "title": "Diaspora, Displacement, Transnationalism (HIST 2971P)",
+    "description": "Interested students must register for HIST 2971P."
+  },
+  {
+    "id": "AMST 2221D",
+    "title": "Tracked: Critical Surveillance Studies",
+    "description": "This graduate seminar investigates historical and contemporary technologies and practices of surveillance, drawing on the established field of Surveillance Studies as well as relevant literature in performance studies, media ethnography, software/platform studies, sociology of labor, and history of science. We will address confluences of moving bodies, disciplining technologies, and state power: for example, motion-sensing systems operating at scales ranging from individual fitness trackers to drone monitoring of refugee movements. Key topics include sousveillance, dataveillance/data bodies, racialized surveillance, algorithmic bias, surveillance art, and surveillance capitalism."
+  },
+  {
+    "id": "AMST 2221F",
+    "title": "Native American Structures of Feeling: Affect, Subjectivity, and Indigeneity in America",
+    "description": "This graduate seminar stages a meeting between the field of Native American and Indigenous Studies and the capacious network of affect theory to attend to the experiences of Native Americans living amidst ongoing U.S. occupation of their lives and lands. Taking our cue from Driftpile Cree poet Billy-Ray Belcourt, we will question the ways in which the “grammar of Indigenous Studies misapprehends the tumult of everyday life” through the field’s emphasis on sovereignty and political recognition. We will trace a colonial history that has made categories such as “the human” and “the subject” unavailable to Native people, and consider the affective conditions created for individuals living within a state made possible only through their elimination. What lives do Native people forge despite the confines that settler colonialism carves for them? How might we better understand these lives through Native literature?"
+  },
+  {
+    "id": "AMST 2990",
+    "title": "Thesis Preparation",
+    "description": "For graduate students who have met the residency requirement and are continuing research on a full time basis."
+  },
+  {
+    "id": "ANTH 0100",
+    "title": "Introduction to Cultural Anthropology",
+    "description": "This course provides an introduction to cultural anthropology, surveying its defining questions, methods, and findings. We will examine the history and utility of anthropology's hallmark method, ethnography, the long-term immersion of the researcher in the culture under study. We will compare cultural anthropology's findings and comportment in other cultures to its conclusions and conduct in our own. No prerequisites."
+  },
+  {
+    "id": "ANTH 0100",
+    "title": "Introduction to Cultural Anthropology",
+    "description": "This course provides an introduction to cultural anthropology, surveying its defining questions, methods, and findings. We will examine the history and utility of anthropology's hallmark method, ethnography, the long-term immersion of the researcher in the culture under study. We will compare cultural anthropology's findings and comportment in other cultures to its conclusions and conduct in our own. No prerequisites."
+  },
+  {
+    "id": "ANTH 0100",
+    "title": "Introduction to Cultural Anthropology",
+    "description": "This course provides an introduction to cultural anthropology, surveying its defining questions, methods, and findings. We will examine the history and utility of anthropology's hallmark method, ethnography, the long-term immersion of the researcher in the culture under study. We will compare cultural anthropology's findings and comportment in other cultures to its conclusions and conduct in our own. No prerequisites."
+  },
+  {
+    "id": "ANTH 0100",
+    "title": "Introduction to Cultural Anthropology",
+    "description": "This course provides an introduction to cultural anthropology, surveying its defining questions, methods, and findings. We will examine the history and utility of anthropology's hallmark method, ethnography, the long-term immersion of the researcher in the culture under study. We will compare cultural anthropology's findings and comportment in other cultures to its conclusions and conduct in our own. No prerequisites."
+  },
+  {
+    "id": "ANTH 0100",
+    "title": "Introduction to Cultural Anthropology",
+    "description": "This course provides an introduction to cultural anthropology, surveying its defining questions, methods, and findings. We will examine the history and utility of anthropology's hallmark method, ethnography, the long-term immersion of the researcher in the culture under study. We will compare cultural anthropology's findings and comportment in other cultures to its conclusions and conduct in our own. No prerequisites."
+  },
+  {
+    "id": "ANTH 0100",
+    "title": "Introduction to Cultural Anthropology",
+    "description": "This course provides an introduction to cultural anthropology, surveying its defining questions, methods, and findings. We will examine the history and utility of anthropology's hallmark method, ethnography, the long-term immersion of the researcher in the culture under study. We will compare cultural anthropology's findings and comportment in other cultures to its conclusions and conduct in our own. No prerequisites."
+  },
+  {
+    "id": "ANTH 0301",
+    "title": "Gender and Politics",
+    "description": "In this course we will focus on how gender and sexuality relate to people’s involvement in political processes at a transnational scale—closely examining their intimacy with areas of difference like race, ethnicity, religion, class, and nation. Using a broad understanding of politics, we will examine how arrangements of power become naturalized through culture, and how people differently sustain, reproduce, resist, and contest these dynamics. With a particular focus on social movements, we will examine the circumstances under which people politically mobilize understandings of gender and sexuality, and how these mobilizations relate to issues like marginalization, migration, colonialism, and capitalism. Our broader aim will be to grasp how gender and sexuality-based inequalities produce—and are produced by—forms of political exclusion, as well as the diverse ways people work to engage, and even transform, existing structures of power."
+  },
+  {
+    "id": "ANTH 0310",
+    "title": "Human Evolution",
+    "description": "Examination of theory and evidence on human evolution in the past, present and future. Topics include evolution and adaptation, biocultural adaptation, fossil evidence, behavioral evolution in primates, human genetic variation and contemporary human biological variation."
+  },
+  {
+    "id": "ANTH 0901",
+    "title": "Farm to Table: Foodways and Gastro-Politics in the Ancient Near East (ARCH 0775)",
+    "description": "Interested students must register for ARCH 0775."
+  },
+  {
+    "id": "ANTH 1126",
+    "title": "Ethnographies of Heritage: Community and Landscape of the Mediterranean and Beyond",
+    "description": "Archaeologists study objects and (socio-cultural) anthropologists investigate culture is how stereotype and conventions have long had it. As material culture studies have increasingly blurred these boundaries, the distinction is entirely meaningless when it comes to archaeological heritage. Taking its cue from material culture studies, this course explores how local communities experience the material remains from the past and (re)incorporate them into their contemporary lives."
+  },
+  {
+    "id": "ANTH 1215",
+    "title": "Juveniles for Justice: Youth Civic Engagement and Activism (EDUC 1670).",
+    "description": "Interested students must register for EDUC 1670."
+  },
+  {
+    "id": "ANTH 1301",
+    "title": "Anthropology of Homelessness",
+    "description": "Homelessness emerged as a public concern in the United States and in other industrialized countries in the late 1970s as people began encountering people living on the streets, a way of life formerly confined to the skid rows of large cities. In this course, through readings, readings, discussion, and hands on experiences with individuals and families experiencing homelessness, we will uncover the causes, conditions, and responses to homelessness. Each student will spend at least two hours per week in a local homeless-serving community partners in order to gain face to face experiences. The field placements will be facilitated by the professor."
+  },
+  {
+    "id": "ANTH 1310",
+    "title": "Global Health: Anthropological Perspectives",
+    "description": "This course explores the distinctive contribution that a critical approach—primarily that of medical anthropology—can make to the rapidly changing field of global health. The course takes a problem-based approach and focuses on “grand challenges,\" such as those posed by global pandemics, humanitarian crisis, or the limited reach of child and maternal health programs in “resource-poor” locations. Through ethnographic case studies, we will examine how the concepts and practices associated with global health interventions travel to different parts of the world and interact with local agendas."
+  },
+  {
+    "id": "ANTH 1311",
+    "title": "Language and Medicine in Practice",
+    "description": "This Community-Based Research and Learning course (CBLR) provides students with a foundation for thinking about how the ways people use language shape and are shaped by the medical sphere. Team taught by a linguistic anthropologist (P. Faudree) and medical anthropologist (K. Mason), this course explores the intersections of language, medicine and health, culture, and society. The course also has a strong applied dimension: students will engage in volunteer work and/or participant observation in clinical settings as part of their coursework. Throughout the course, students will bring their insights and observations of healthcare practice into dialogue with anthropological analysis. The course is limited to 20 students, admitted to the class via an application process. Priority will be given to senior anthropology concentrators and Engaged Scholarship Certificate students."
+  },
+  {
+    "id": "ANTH 1320",
+    "title": "Anthropology and International Development: Ethnographic Perspectives on Poverty and Progress",
+    "description": "Examines international development from an ethnographic perspective, looking critically at issues of poverty and progress from local points of view. Course is organized around the premise that culture is central to understanding processes of development. Broad development themes such as public health, agriculture, democracy, and the environment will be explored through readings representing a wide range of regions and cultures."
+  },
+  {
+    "id": "ANTH 1559",
+    "title": "Wet Ethnographies (GNSS 1962E)",
+    "description": "Interested students must register for GNSS 1962E."
+  },
+  {
+    "id": "ANTH 1561",
+    "title": "Environmental Amnesia: How to navigate losses in nature by looking at the past (ENVS 1879).",
+    "description": "Interested students must register for ENVS 1879."
+  },
+  {
+    "id": "ANTH 1562",
+    "title": "Reimagining Climate Change (ENVS 1601)",
+    "description": "Interested students must register for ENVS 1601."
+  },
+  {
+    "id": "ANTH 1650",
+    "title": "Ancient Maya Writing",
+    "description": "Nature and content of Mayan hieroglyphic writing, from 100 to 1600 CE. Methods of decipherment, introduction to textual study, and application to interpretations of Mayan language, imagery, world view, and society. Literacy and Mesoamerican background of script."
+  },
+  {
+    "id": "ANTH 1750",
+    "title": "Bioarchaeology and Forensic Anthropology",
+    "description": "Bioarchaeology and forensic anthropology have common methodological roots (human osteology) but are oriented to answer very different questions. Both are grounded in the anthropological sub-disciplines of biological anthropology and archaeology. The focus in bioarchaeology is advancing our understanding of the human experience in the past. Bioarchaeologists study a range of topics including health, violence, migration, and embodiment. Forensic anthropology is a form of applied anthropology that is employed to document and interpret human remains in medico-legal contexts. The course will survey both fields while instructing in the methodologies and approaches of each. The course complements The Human Skeleton (ANTH 1720)."
+  },
+  {
+    "id": "ANTH 1820",
+    "title": "Lost Languages: The Decipherment and Study of Ancient Writing Systems",
+    "description": "Humans make many marks, but it is writing that records, in tangible form, the sounds and meanings of language. Creating scripts is momentous; writing facilitates complex society and is a crucial means of cultural expression. This course addresses the nature of writing in past times. Topics include: the technology of script; its precursors and parallel notations; its emergence, use, and \"death\"; its change over time, especially in moments of cultural contact and colonialism; writing as a physical object or thing; code-breaking and decipherment, including scripts not yet deciphered; and the nature of non-writing or pseudo- or crypto-scripts."
+  },
+  {
+    "id": "ANTH 1920",
+    "title": "Gastronomic Heritage",
+    "description": "How is gastronomic heritage established and re-established through ties to ancient foodways? Where do archaeology and history contribute to the ossification and legitimation of culinary traditions and practices? There are many stakes tied to such questions—nutritional, religious, ethnic, institutional, governmental, and touristic, among others. In this course, we address relationships between food history and gastronomic heritage, drawing on examples from around the world and across media, including cookbooks, international policy reports, and video game representations. We examine culinary dimensions considered \"traditional\" by local communities and federal agencies, the archaeological and historical sources of such narratives (if they exist), and impacts of gastronomic heritage on modern practices, identities, and economies."
+  },
+  {
+    "id": "ANTH 1930",
+    "title": "Anthropology Thesis Workshop",
+    "description": "This course is a year long two-semester workshop (offered in the fall and spring semesters) for students who are researching and writing an honors or senior thesis in Anthropology or a closely related field. Supplementing advisor support, the course will introduce students to best practices, shoring up essential skills in research design, methods, data interpretation, and written and oral presentation. Students will also participate in peer review, offering and responding to substantive and supportive feedback on their work in progress. The workshop, which meets every other week, is structured so that students can make substantial progress, following a recommended schedule to ensure the successful and timely completion of the thesis in the spring."
+  },
+  {
+    "id": "ANTH 1940",
+    "title": "Ethnographic Research Methods",
+    "description": "To understand the different theoretical assumptions that shape research efforts; to examine how hypotheses and research questions are formulated; and to appreciate the ethical and scientific dimensions of research by hands-on experience in fieldwork projects. Prerequisite: One Anthropology course."
+  },
+  {
+    "id": "ANTH 1976",
+    "title": "Experimental Ethnography",
+    "description": "This course explores experimental ethnography and its relevance to humanistic social inquiry in these times. Participants will consider both the limits and horizons of knowledge production and sharing, drawing from a range of disciplines within as well as outside of the academy. Geared to advanced undergraduate and early graduate students, learning takes place through close reading, discussion, guest lectures, and other activities. The course includes a series of in-class workshops that introduce specific methods such as ethno-graphic drawing, collage, textile work, sound, and investigative theater. The course concludes with the in-class sharing of participants’ own ethnographic experiments."
+  },
+  {
+    "id": "ANTH 1990",
+    "title": "Senior Seminar: (Re)Making Anthropology",
+    "description": "This Senior Seminar capstone course is a critical look at the past, present, future of anthropology. The class proceeds from the premise that we must know the history of our field in order to build a stronger discipline. It examines the contributions and missteps of past anthropologists. Among the key questions to address: What are the discipline’s aims and contributions in the 21st century? Has the field successfully integrated diverse voices and perspectives? Are their central theories and methods that have (and continue to) define the field? What does it mean to be an anthropologist?"
+  },
+  {
+    "id": "ANTH 2020",
+    "title": "Methods of Anthropological Research",
+    "description": "A seminar on the methodological problems associated with field research in social and cultural anthropology. Designed to help students prepare for both summer and dissertation research."
+  },
+  {
+    "id": "ANTH 2060",
+    "title": "Anthropology Dissertators' Seminar",
+    "description": "This seminar is for post-field graduate students in residence at Brown who are at any stage of writing their dissertations. It is intended to support dissertators by providing a structured community, providing a setting for sharing goals, and workshopping writing."
+  },
+  {
+    "id": "ANTH 2251",
+    "title": "Anthropology of Gender and Sexuality",
+    "description": "In this course we will engage scholarship in the social sciences focused on gender, sexuality, and culture. While primarily focused on ethnography, our class will also engage other writing in the humanities and social sciences including history and sociology, given the multiple and interdisciplinary underpinnings of queer and trans anthropological inquiry. Through our readings, we will examine how gender and sexuality relate to an array of pressing topics including—but not limited to— race, ethnicity, religion, kinship, labor, sexual exchange, activism, coloniality, medicine, migration, and neoliberalism. We will extensively focus on transnational contexts beyond the United States and North America, with readings centering the politics of gender and sexuality in locations like Palestine, Taiwan, Canada, Pakistan, the Dominican Republic, Kenya, Armenia and elsewhere. Those without a background or research focus on queer and trans anthropology are welcome to take this course."
+  },
+  {
+    "id": "ANTH 2300",
+    "title": "Anthropological Demography",
+    "description": "A seminar devoted to the investigation of the interface of anthropology (especially sociocultural anthropology) and demography. A wide variety of demographic topics-fertility, mortality, marriage, migration-are considered, and the links between anthropological and demographic writings on and approaches to these areas are examined."
+  },
+  {
+    "id": "ANTH 2322",
+    "title": "Ethnography of Religion in South Asia (RELS 2250)",
+    "description": "Interested students must register for RELS 2250."
+  },
+  {
+    "id": "ANTH 2401",
+    "title": "Experimental Ethnography",
+    "description": "This course explores experimental ethnography and its relevance to humanistic social inquiry in these times. Participants will consider both the limits and horizons of knowledge production and sharing, drawing from a range of disciplines within as well as outside of the academy. Geared to advanced undergraduate and early graduate students, learning takes place through close reading, discussion, guest lectures, and other activities. The course includes a series of in-class workshops that introduce specific methods such as ethno-graphic drawing, collage, textile work, sound, and investigative theater. The course concludes with the in-class sharing of participants’ own ethnographic experiments."
+  },
+  {
+    "id": "ANTH 2402",
+    "title": "Empire: Global Perspectives",
+    "description": "Empires — ancient, early modern, and contemporary — have profoundly shaped the distribution of wealth and power in the modern world. However, imperial formations are strikingly diverse, and many of the entities that scholars now call “empires” were not understood as such during their own times. This collaborative humanities graduate seminar explores that diversity and examines how empires rise, fall, and perdure. While taking a global, comparative perspective, we also attend to local processes, analyzing how landscapes, objects, and people were bound up with imperial trajectories in such contexts as the ancient Mediterranean, Persia, China, the Andes, the Early Modern Atlantic, and the contemporary world. We afford particular attention to local peoples' relationships with empires, environmental history, political economy, historiography, and imperial art and material culture."
+  },
+  {
+    "id": "ANTH 2800",
+    "title": "Linguistic Theory and Practice",
+    "description": "An introduction to theoretical and methodological issues in the study of language and social life. We begin by examining semiotic approaches to language. We turn to classical research on language as a structured system - covering such topics as phonology and grammatical categories - but we focus on the implications of such work for broader social scientific and humanistic research. We then consider areas of active contemporary research, including cognition and linguistic relativity, meaning and semantics, pronouns and deixis, deference and register, speech acts and performativity, interaction, verbal art and poetics, reported speech, performance, and linguistic ideology."
+  },
+  {
+    "id": "ANTH 2801",
+    "title": "Whiteness and Language",
+    "description": "How has whiteness shaped language—not specific languages or sub-varieties of languages, but the very idea of language itself? This class will not presume either whiteness or language as stable or self-evident categories. Instead, we will explore how both have emerged together in and through projects of (racial, ethnic, gendered, sexual, classed, religious, etc.) colonial modernity. The class will introduce students to a critical interdisciplinary toolkit that they will collaboratively apply to a selection of case studies drawn from global colonial situations, culminating in an original mini-research project."
+  },
+  {
+    "id": "ANTH 2970",
+    "title": "Preliminary Examination Preparation",
+    "description": "For graduate students who have met the tuition requirement and are paying the registration fee to continue active enrollment while preparing for a preliminary examination."
+  },
+  {
+    "id": "ANTH 2990",
+    "title": "Thesis Preparation",
+    "description": "For graduate students who have met the residency requirement and are continuing research on a full time basis."
+  },
+  {
+    "id": "APMA 0111",
+    "title": "Data Science and Social Justice",
+    "description": "This first-year seminar explores the impact of data and algorithms on equity and justice. Data analysis and visualization can help identify inequities and advocate for social justice. At the same time, data-based algorithms can institutionalize and rationalize unfair practices and injustices. In this course, we will engage with fundamental questions about the role of data to work towards social justice. We will gain introductory data science skills, discuss algorithmic bias, equity, and fairness, and work with real-world data sets and algorithms to examine inequities in health, policing, prisons, and welfare. Everybody is welcome - no prerequisites are needed."
+  },
+  {
+    "id": "APMA 0200",
+    "title": "Introduction to Modeling",
+    "description": "This course provides an introduction to the mathematical modeling of selected biological, chemical, engineering, and physical processes. The goal is to illustrate the typical way in which applied mathematicians approach practical applications, from understanding the underlying problem, creating a model, analyzing the model using mathematical techniques, and interpreting the findings in terms of the original problem. Single-variable calculus is the only requirement; all other techniques from differential equations, linear algebra, and numerical methods, to probability and statistics will be introduced in class. Prerequisites: Math 0100 or equivalent."
+  },
+  {
+    "id": "APMA 0260",
+    "title": "Linear Algebra and Multivariable Calculus for Applied Mathematics",
+    "description": "This one-semester course provides an integrated introduction to multi-variable calculus and linear algebra. Students will develop a strong foundation in mathematical concepts and techniques essential for the applied mathematics concentration."
+  },
+  {
+    "id": "APMA 0350",
+    "title": "Applied Ordinary Differential Equations",
+    "description": "This course provides a comprehensive introduction to ordinary differential equations and their applications. During the course, we will see how applied mathematicians use ordinary differential equations to solve practical applications, from understanding the underlying problem, creating a differential-equations model, solving the model using analytical, numerical, or qualitative methods, and interpreting the findings in terms of the original problem. We will also learn about the underlying rigorous theoretical foundations of differential equations. Prerequisites: MATH 0100 or equivalent; knowledge of matrix-vector operations, determinants, and linear systems."
+  },
+  {
+    "id": "APMA 0360",
+    "title": "Applied Partial Differential Equations I",
+    "description": "This course provides an introduction to partial differential equations and their applications. We will learn how to use partial differential equations to solve problems that arise in practical applications, formulating questions about a real-world problem, creating a partial differential equation model that can help answer these questions, solving the resulting system using analytical, numerical, and qualitative methods, and interpreting the results in terms of the original application. To help us support and justify our approaches and solutions, we will also learn about theoretical foundations of partial differential equations. Prerequisites: APMA 0350 or equivalent."
+  },
+  {
+    "id": "APMA 0650",
+    "title": "Essential Statistics",
+    "description": "A first course in probability and statistics emphasizing statistical reasoning and basic concepts. Topics include visual and numerical summaries of data, representative and non-representative samples, elementary discrete probability theory, the normal distribution, sampling variability, elementary statistical inference, measures of association. Examples and applications from the popular press and the life, social and physical sciences. Not calculus-based. No prerequisites."
+  },
+  {
+    "id": "APMA 1070",
+    "title": "Quantitative Models of Biological Systems",
+    "description": "Quantitative dynamic models help understand problems in biology and there has been rapid progress in recent years. This course provides an introduction to the concepts and techniques, with applications to population dynamics, infectious diseases, enzyme kinetics, and cellular biology. Additional topics covered will vary. Mathematical techniques will be discussed as they arise in the context of biological problems. Prerequisites: APMA 0350 or equivalent."
+  },
+  {
+    "id": "APMA 1160",
+    "title": "An Introduction to Numerical Optimization",
+    "description": "This course provides a thorough introduction to numerical methods and algorithms for solving non-linear continuous optimization problems. A particular attention will be given to the mathematical underpinnings to understand the theoretical properties of the optimization problems and the algorithms designed to solve them. Topics will include: line search methods, trust-region methods, nonlinear conjugate gradient methods, an introduction to constrained optimization (Karush-Kuhn-Tucker conditions, mini-maximization, saddle-points of Lagrangians). Some applications in signal and image processing will be explored. Prerequisites: MATH 0180 or equivalent; MATH 0520 or equivalent; APMA 0160 or CSCI 0111 or equivalent. APMA 1170 or equivalent is recommended."
+  },
+  {
+    "id": "APMA 1180",
+    "title": "Introduction to Numerical Solution of Differential Equations",
+    "description": "Fundamental numerical techniques for solving ordinary and partial differential equations. Overview of techniques for approximation and integration of functions. Development of multi-step and multi-stage methods, error analysis, step-size control for ordinary differential equations. Solution of two-point boundary value problems, introduction to methods for solving linear partial differential equations. Students will be required to use Matlab (or other computer languages) to implement the mathematical algorithms under consideration: experience with a programming language is therefore strongly recommended. Prerequisites: APMA 0350 or equivalent; APMA 0360 or equivalent."
+  },
+  {
+    "id": "APMA 1200",
+    "title": "Operations Research: Probabilistic Models",
+    "description": "APMA 1200 serves as an introduction to stochastic processes and stochastic optimization. After a review of basic probability theory, including conditional probability and conditional expectations, topics covered will include discrete-time Markov chains, exponential distributions, Poisson processes and continuous-time Markov chains, elementary queueing theory, martingales, Markov decision processes and dynamic programming. If time permits topics selected from filtering of hidden Markov chains, renewal processes, and Brownian motion could be included. Prerequisites: APMA 1650 (or equivalent) and MATH 520 (or equivalent). The course assumes calculus, basic probability theory, and linear algebra."
+  },
+  {
+    "id": "APMA 1360",
+    "title": "Applied Dynamical Systems",
+    "description": "This course gives an overview of the theory and applications of dynamical systems modeled by differential equations and maps. We will discuss changes of the dynamics when parameters are varied, investigate periodic and homoclinic solutions that arise in applications, and study the impact of additional structures such as time reversibility and conserved quantities on the dynamics. We will also study systems with complicated \"chaotic\" dynamics that possess attracting sets which do not have an integer dimension. Applications to chemical reactions, climate, epidemiology, and phase transitions will be discussed. Prerequisites: APMA 0350 or equivalent."
+  },
+  {
+    "id": "APMA 1650",
+    "title": "Statistical Inference I",
+    "description": "APMA 1650 is an integrated first course in mathematical statistics. The first half of APMA 1650 covers probability and the last half is statistics, integrated with its probabilistic foundation. Specific topics include probability spaces, discrete and continuous random variables, methods for parameter estimation, confidence intervals, and hypothesis testing. Prerequisites: MATH 0100 or equivalent."
+  },
+  {
+    "id": "APMA 1655",
+    "title": "Honors Statistical Inference I",
+    "description": "Students may opt to enroll in APMA 1655 for more in depth coverage of APMA 1650. Enrollment in 1655 will include an optional recitation section and required additional individual work. Applied Math concentrators are encouraged to take 1655. Prerequisites: MATH 0180 or equivalent."
+  },
+  {
+    "id": "APMA 1660",
+    "title": "Statistical Inference II",
+    "description": "APMA 1660 is designed as a sequel to APMA 1650 to form one of the alternative tracks for an integrated year's course in mathematical statistics. The main topic is linear models in statistics. Specific topics include likelihood-ratio tests, nonparametric tests, introduction to statistical computing, matrix approach to simple-linear and multiple regression, analysis of variance, and design of experiments. Prerequisites: APMA 1650 or equivalent; MATH 0520 or equivalent."
+  },
+  {
+    "id": "APMA 1710",
+    "title": "Information Theory",
+    "description": "Information theory is the study of the fundamental limits of information transmission and storage. This course, intended primarily for advanced undergraduates and beginning graduate students, offers a broad introduction to information theory and its applications: Entropy and information, lossless data compression, communication in the presence of noise, channel capacity, channel coding, source-channel separation, lossy data compression. Prerequisites: APMA 1650 or equivalent."
+  },
+  {
+    "id": "APMA 1740",
+    "title": "Recent Applications of Probability and Statistics",
+    "description": "This course develops the mathematical foundations of modern applications of statistics to the computational, cognitive, engineering, and neural sciences. The course is rigorous, but the emphasis is on application. Topics include: Gibbs ensembles and their relation to maximum entropy, large deviations, exponential models, and information theory; statistical estimation and classification; graphical models, dynamic programming, MCMC, parameter estimation, and the EM algorithm. Graduate version: 2610; Undergraduate version: 1740. Prerequisites: APMA 1650 or equivalent; programming experience; strong mathematics background. APMA 1200 or APMA 1690 or similar courses recommended. MATH 1010 or equivalent is recommended for APMA 2610."
+  },
+  {
+    "id": "APMA 1930P",
+    "title": "Mathematics and Climate",
+    "description": "Mathematical models play a critical role in projecting and understanding climate processes. This course will discuss techniques for application of theoretical models, computational experiments, and data analysis in climate science, including oceanic, atmospheric, and ecological phenomena. Intended for students in applied mathematics and other concentrations with quantitative skills who are interested in applying their knowledge to mathematical modeling and climate problems. No previous coursework in climate science is required. Physical science concepts and mathematical techniques will be introduced throughout the course. Students will develop collaborative or individual projects later in the semester. Prerequisites: APMA 0360, or APMA 0340, or written permission; APMA 1650 is recommended. Course has undergraduate version (APMA 1930P) and graduate version (APMA 2822P). The graduate version will engage more deeply with mathematical aspects of constructing models and performing mathematical modeling research."
+  },
+  {
+    "id": "APMA 1930Q",
+    "title": "Mathematical Models of Cortical Dynamics",
+    "description": "A Senior Applied Mathematics seminar on brain modeling, emphasizing: stochastic aspects of cortical dynamics; mean-field approaches to the analysis of large networks; models of spike-timing-dependent plasticity; the emergence of network motifs and their role in cortical function. Open to Neuroscience and CLPS students with adequate mathematical and computational preparation. Background in neuroscience desirable but not required."
+  },
+  {
+    "id": "APMA 1930W",
+    "title": "Probabilities in Quantum Mechanics",
+    "description": "We will start from scratch. We will be rigorous, while making a careful accounting of the (surprisingly few) conceptual assumptions that lead inexorably to consequences that are almost impossible to believe. With an eye on some of the most startling and vexing of these, we will construct a minimum mathematical foundation sufficient to explore: the abrupt transition from the weird quantum to the familiar classical world; the uncertainty principles; teleportation; Bell’s theorem and the Einstein-Bohr debates; quantum erasure; the Conway-Kochen “free-will theorem”; (unbreakable) quantum encryption, and, an introduction to quantum computing."
+  },
+  {
+    "id": "APMA 1941H",
+    "title": "Mathematics and Rational Choice",
+    "description": "This course provides a rigorous introduction to the mathematical foundations of modern economic theory. In short, this is an analysis course, but special focus will be placed on the results that underpin economic modeling and decision-making. Students will explore real and convex analysis, optimization techniques, and fixed-point theorems. Emphasis is placed on the formalization and proof of fundamental theorems. Active learning techniques will be used to develop students' proficiency in mathematical proof writing and analytical reasoning."
+  },
+  {
+    "id": "APMA 2070",
+    "title": "Deep Learning for Scientists & Engineers",
+    "description": "This course introduces concepts and implementation of deep learning techniques for computational science and engineering problems to first or second year graduate students. This course entails various methods, including theory and implementation of deep learning techniques to solve a broad range of problems using scientific machine learning. Lectures and tutorials on Python, Tensorflow and PyTorch are also included. Students will understand the underlying theory and mathematics of deep learning; analyze and synthesize data in order to model physical, chemical, biological, and engineering systems; and apply physics-informed neural networks and neural operators to model and simulate multiphysics systems. Undergraduate students who want to enroll in this course should request an override through Courses@Brown."
+  },
+  {
+    "id": "APMA 2120",
+    "title": "Hilbert Spaces and Their Applications",
+    "description": "A continuation of APMA 2110: metric spaces, Banach spaces, Hilbert spaces, the spectrum of bounded operators on Banach and Hilbert spaces, compact operators, applications to integral and differential equations."
+  },
+  {
+    "id": "APMA 2200",
+    "title": "Nonlinear Dynamical Systems: Theory and Applications",
+    "description": "Basic theory of ordinary differential equations, flows, and maps. Two-dimensional systems. Linear systems. Hamiltonian and integrable systems. Lyapunov functions and stability. Invariant manifolds, including stable, unstable, and center manifolds. Bifurcation theory and normal forms. Nonlinear oscillations and the method of averaging. Chaotic motion, including horseshoe maps and the Melnikov method. Applications in the physical and biological sciences."
+  },
+  {
+    "id": "APMA 2560",
+    "title": "Numerical Solution of Partial Differential Equations II",
+    "description": "An introduction to weighted residual methods, specifically spectral, finite element and spectral element methods. Topics include a review of variational calculus, the Rayleigh-Ritz method, approximation properties of spectral end finite element methods, and solution techniques. Homework will include both theoretical and computational problems."
+  },
+  {
+    "id": "APMA 2580A",
+    "title": "Computational Fluid Dynamics",
+    "description": "The course will focus primarily on finite difference methods for viscous incompressible flows. Other topics will include multiscale methods, e.g. molecular dynamics, dissipative particle dynamics and lattice Boltzmann methods. We will start with the mathematical nature of the Navier-Stokes equations and their simplified models, learn about high-order explicit and implicit methods, time stepping, and fast solvers. We will then cover advection-diffusion equations and various forms of the Navier-Stokes equations in primitive variables and in vorticity/streamfunction formulations. In addition to the homeworks the students are required to develop a Navier-Stokes solver as a final project."
+  },
+  {
+    "id": "APMA 2610",
+    "title": "Recent Applications of Probability and Statistics",
+    "description": "This course develops the mathematical foundations of modern applications of statistics to the computational, cognitive, engineering, and neural sciences. The course is rigorous, but the emphasis is on application. Topics include: Gibbs ensembles and their relation to maximum entropy, large deviations, exponential models and information theory; statistical estimation and classification; graphical models, dynamic programming, MCMC, parameter estimation, and the EM algorithm. Graduate version: 2610; Undergraduate version: 1740. Prerequisites: APMA 1650 or equivalent, programming experience, strong mathematics background. APMA 1200 or APMA 1690 or similar courses recommended. MATH 1010 or equivalent is recommended for APMA 2610."
+  },
+  {
+    "id": "APMA 2640",
+    "title": "Theory of Probability II",
+    "description": "Part two of a two semester course that provides an introduction to probability theory based on measure theory. Standard topics covered in the second-semester (APMA 2640) include the following: discrete time martingale theory, weak convergence (also called convergence in distribution) and the central limit theorem, and a study of Brownian motion. Optional topics include the ergodic theorem and large deviation theory. Prerequisites—undergraduate probability and analysis, co-requisite—graduate real analysis."
+  },
+  {
+    "id": "APMA 2680",
+    "title": "Mathematical Statistics II",
+    "description": "The course covers modern nonparametric statistical methods. Topics include: density estimation, multiple regression, adaptive smoothing, cross-validation, bootstrap, classification and regression trees, nonlinear discriminant analysis, projection pursuit, the ACE algorithm for time series prediction, support vector machines, and neural networks. The course will provide the mathematical underpinnings, but it will also touch upon some applications in computer vision/speech recognition, and biological, neural, and cognitive sciences. Prerequisite: APMA 2670."
+  },
+  {
+    "id": "APMA 2822G",
+    "title": "Topics in Optimal Transport and High Dimensional Probability",
+    "description": "The study of probability distributions in high dimensions is prevalent in current research in theoretical and applied mathematics, as well as in science and engineering. This course will cover the foundations of some of the tools used in the field: optimal transport, probability flows, concentration of measure, as well as other fundamental topics."
+  },
+  {
+    "id": "APMA 2822H",
+    "title": "Topics in Approximation Theory",
+    "description": "Approximation theory lies at the heart of almost every computational method. Although approximation theory is a vast subject that has been studied for centuries it is still an area of current active research, and encompasses many methods including polynomial, neural networks, Fourier series, splines, wavelets, radial basis functions to name but a few. This class aims to cover a wide range of topics in approximation theory that are relevant for those interested in numerical approximation of functions, data and differential equations. We shall cover fundamental theory of polynomial approximation before moving on to topics including multiresolution analysis, wavelets and neural networks. The course is aimed at graduate students in STEM disciplines who are interested in computational methods and who have a basic grounding in real analysis. The class will involve both mathematical theory and algorithms."
+  },
+  {
+    "id": "APMA 2822I",
+    "title": "Topics in PDEs",
+    "description": "The course will cover classical results and recent development in several topics of partial differential equations, including the homogenization theory and the mixing problem. Prerequisites: Graduate level real and functional analysis, and a graduate level PDE course."
+  },
+  {
+    "id": "APMA 2822P",
+    "title": "Mathematics and Climate",
+    "description": "Mathematical models play a critical role in projecting and understanding climate processes. This course will discuss techniques for application of theoretical models, computational experiments, and data analysis in climate science, including oceanic, atmospheric, and ecological phenomena. Intended for students in applied mathematics and other concentrations with quantitative skills who are interested in applying their knowledge to mathematical modeling and climate problems. No previous coursework in climate science is required. Physical science concepts and mathematical techniques will be introduced throughout the course. Students will develop collaborative or individual projects later in the semester. Course has undergraduate version (APMA 1930P) and graduate version (APMA 2822P). The graduate version will engage more deeply with mathematical aspects of constructing models and performing mathematical modeling research."
+  },
+  {
+    "id": "APMA 2990",
+    "title": "Thesis Preparation",
+    "description": "For graduate students who have met the residency requirement and are continuing research on a full time basis."
+  },
+  {
+    "id": "ARAB 0200",
+    "title": "First-Year Arabic",
+    "description": "Builds listening, speaking, reading, and writing skills, at the low intermediate level of Arabic proficiency. Five contact hours per week, with an emphasis on grammar and communication, plus written, audio, and video assignments outside of class. This is the second half of a year-long course. Students must have taken ARAB 0100 to receive credit for this course. If ARAB 0100 was taken for credit then this course must be taken for credit; if taken as an audit, this course must also be taken as an audit. Exceptions to this policy must be approved by both the academic department and the Committee on Academic Standing. Enrollment limited to 18."
+  },
+  {
+    "id": "ARAB 0400",
+    "title": "Second-Year Arabic",
+    "description": "Develops listening, speaking, reading and writing skills at the intermediate level of language proficiency through extensive use of various texts and multimedia. Promotes better understanding of Arabic cultural traditions. Five contact hours weekly, plus written, audio, and video assignments outside of class. Prerequisite: ARAB 0300. This is the second half of a year-long course. Students must have taken ARAB 0300 to receive credit for this course."
+  },
+  {
+    "id": "ARAB 0600",
+    "title": "Third-Year Arabic",
+    "description": "Offers comprehensive training in listening, speaking, reading, and writing with grammar review as needed. Broadens students' perspective of Arabic culture with selections from the classical and modern traditions of Arabic writing and various art forms. Four contact hours weekly. Prerequisite: ARAB 0500."
+  },
+  {
+    "id": "ARAB 0850",
+    "title": "Advanced reading and composition in Arabic: Kalila wa-Dimna",
+    "description": "This course aims to introduce students with advanced proficiency in Arabic to Classical Arabic exemplified by the stories of Kalila wa-Dimna, one of the most popular medieval Arabic folk tales, told through a cast of personified animals. While written originally in Sanskrit in the fourth century CE, the Arabic translation of Ibn al-Muqaffa’—one of the most influential prose writers in the history of Arabic literature—is what made it a classic in Arabic. It also allowed it to travel to other parts of the globe through various translations based on Ibn al-Muqaffa’s.\n\nStudents will also have an opportunity to engage with a modern version of the stories, by Munther Younes, developing further their ability to read critically authentic Arabic texts of different historical periods, sharpening their analytical skills, and expanding their perspective of the language evolution through the ages. Advanced level in Arabic is required."
+  },
+  {
+    "id": "ARCH 0156",
+    "title": "Architecture and Urbanism of the African Diaspora (HIAA 0770)",
+    "description": "Interested students must register for HIAA 0770."
+  },
+  {
+    "id": "ARCH 0309",
+    "title": "Human Evolution (ANTH 0310)",
+    "description": "Interested students must register for ANTH 0310."
+  },
+  {
+    "id": "ARCH 0314",
+    "title": "Medieval Bodies: Medieval Perspectives",
+    "description": "Interested students must register for MDVL 0360."
+  },
+  {
+    "id": "ARCH 0323",
+    "title": "Somewhere Back in Time: Archaeology, the Ancient World, and Heavy Metal Music (CLAS 0322).",
+    "description": "Interested students must register for CLAS 0322."
+  },
+  {
+    "id": "ARCH 0644",
+    "title": "Art and Architecture of the Islamic World (HIAA 0044).",
+    "description": "Interested students must register for HIAA 0044."
+  },
+  {
+    "id": "ARCH 0767",
+    "title": "Aromas of Antiquity: The Fragrant World of the Ancient Mediterranean",
+    "description": "Have you ever wondered how something as unassuming as smell can shape entire civilizations? Through scent walks, hands-on experiences, and chemical experiments, students in this course will discover how fragrance shapes our daily lives and contemporary ideas about medicine, relationships, and wealth. We’ll then shift to the ancient Mediterranean, exploring how the ancient Egyptians, Mesopotamians, Early Christians, Greeks, and Romans perceived scent and examining its entanglement with their belief systems, social lives, and power dynamics."
+  },
+  {
+    "id": "ARCH 0775",
+    "title": "Farm to Table: Foodways and Gastro-Politics in the Ancient Near East",
+    "description": "This course provides an introduction to the culture, economy, and politics of food in the ancient Near East. We will not only investigate the day-to-day mechanics of food production, cooking, and consumption; we will also develop an appreciation for changing food fashions, for the etiquette of eating and drinking, and for the complex world of gastro-politics. We will even explore the ancient kitchen using our own hands, mouths, and stomachs as a guide."
+  },
+  {
+    "id": "ARCH 1214",
+    "title": "The Viking Age (HIST 1210A)",
+    "description": "Interested students must register for HIST 1210A."
+  },
+  {
+    "id": "ARCH 1233",
+    "title": "Ancient Maya Writing (ANTH 1650)",
+    "description": "Interested students must register for ANTH 1650."
+  },
+  {
+    "id": "ARCH 1234",
+    "title": "Lost Languages: The Decipherment and Study of Ancient Writing Systems (ANTH 1820)",
+    "description": "Interested students must register for ANTH 1820."
+  },
+  {
+    "id": "ARCH 1434",
+    "title": "Jerusalem: Jews, Christians, Muslims (UNIV 1003).",
+    "description": "Interested students must register for UNIV 1003."
+  },
+  {
+    "id": "ARCH 1487",
+    "title": "Environmental History of East Asia (HIST 1820B)",
+    "description": "Interested students must register for HIST 1820B."
+  },
+  {
+    "id": "ARCH 1501",
+    "title": "Islamic Art in the RISD Museum: Thinking With Objects (HIAA 1418).",
+    "description": "Interested students must register for HIAA 1418."
+  },
+  {
+    "id": "ARCH 1536",
+    "title": "Archeological Ethnographies: Heritage and Community in the Mediterranean (ANTH 1126)",
+    "description": "Interested students must register for ANTH 1126."
+  },
+  {
+    "id": "ARCH 1539",
+    "title": "Gastronomic Heritage (ANTH 1920).",
+    "description": "Interested students must register for ANTH 1920."
+  },
+  {
+    "id": "ARCH 1602",
+    "title": "The Age of Empires: The Ancient Near East in the First Millennium BC (ASYR 1300)",
+    "description": "Interested students must register for ASYR 1300."
+  },
+  {
+    "id": "ARCH 1626",
+    "title": "Gods, Mummies, and Myths: Exploring Ancient Egyptian Society (EGYT 1050).",
+    "description": "Interested students must register for EGYT 1050."
+  },
+  {
+    "id": "ARCH 1630",
+    "title": "Fighting Pharaohs: Ancient Egyptian Warfare",
+    "description": "When and why did the ancient Egyptians engage in war? Who was fighting? What were their weapons like and what were their military strategies? What were the political situations that caused them to go to war? How did warfare impact Egyptian society? In studying Egyptian history and society through the pervasive motif of war, we will gain an understanding of the forces that shaped Egyptian culture. Enrollment limited to 55."
+  },
+  {
+    "id": "ARCH 1704",
+    "title": "Sacred Waters of the Ancient World (HIAA 1309).",
+    "description": "Interested students must register for HIAA 1309."
+  },
+  {
+    "id": "ARCH 1768",
+    "title": "Death in the West (CLAS 1420)",
+    "description": "Interested students must register for CLAS 1420."
+  },
+  {
+    "id": "ARCH 1771",
+    "title": "Archaeology of Death (ANTH 1623)",
+    "description": "Interested students must register for ANTH 1623."
+  },
+  {
+    "id": "ARCH 1773",
+    "title": "Bioarchaeology and Forensic Anthropology (ANTH 1750)",
+    "description": "Interested students must register for ANTH 1750."
+  },
+  {
+    "id": "ARCH 1852",
+    "title": "Material Culture Practicum (ANTH 1621)",
+    "description": "Interested students must register for ANTH 1621."
+  },
+  {
+    "id": "ARCH 1865",
+    "title": "Environmental Amnesia: How to Navigate Losses in Nature by Looking at the Past (ENVS 1879).",
+    "description": "Interested students must register for ENVS 1879."
+  },
+  {
+    "id": "ARCH 1892",
+    "title": "Non-Destructive Archaeology: Reconstructing the Past from Geophysics to Drones",
+    "description": "Archaeology is not just digging! As archaeologists have become more cautious about excavation, technological developments have transformed our ability to detect the past. We can now analyze entire settlements through the aid of drones, spy satellites, magnetometers, and ground penetrating radar. Yet such technologies come at a social and ethical cost – particularly pertaining to indigenous rights, private property, and mass surveillance. Through hands-on training, lectures, and discussion, this course explores the methods and theory behind archaeological remote sensing and geophysics, and the legal framework and ethical issues around these approaches."
+  },
+  {
+    "id": "ARCH 2114",
+    "title": "Archaeologies of Text (ASYR 2800)",
+    "description": "Interested students must register for ASYR 2800."
+  },
+  {
+    "id": "ARCH 2265",
+    "title": "Nature and Society in the Ancient World",
+    "description": "What is ‘nature’? Is human society separate and distinct from the ‘natural’ world, or a closely-entwined part? Historical investigations often simplify this relationship to one-sided explanations of social or environmental determinism, missing the lived reality of people in their landscapes. This class explores the ecological reality of the ‘natural’ world in Antiquity, using archaeological, historical, and palaeo-environmental data to investigate these questions, focusing especially on the Roman and late-Roman periods."
+  },
+  {
+    "id": "ARCH 2290",
+    "title": "Empire: Global Perspectives (HMAN 2402B)",
+    "description": "Interested students must register for HMAN 2402B."
+  },
+  {
+    "id": "ARCH 2553",
+    "title": "Introduction to Public Humanities (PHUM 2010)",
+    "description": "Interested students must register for PHUM 2010."
+  },
+  {
+    "id": "ARCH 2741",
+    "title": "Social Life in Ancient Egypt (EGYT 2510).",
+    "description": "Interested students must register for EGYT 2510."
+  },
+  {
+    "id": "ARTS 1004",
+    "title": "Race and the Making of Art",
+    "description": "In this course, we will begin by examining how race is constructed, systematized, codified, commodified, and disseminated across various spaces in society through the study of several key scholarly and theoretical works. We will then use that lens to explore how different artists from multiple disciplines (poetry, visual art, music, and performance) have engaged issues of race in their work to both affirm individual and collective racial identities and trouble the ways those identities have been represented and understood. Each student will create creative or critical works reflecting their own intersections with these topics."
+  },
+  {
+    "id": "ARTS 1011",
+    "title": "Acting for the Camera",
+    "description": "“Acting for the Camera” curriculum is divided into three parts depending on experience: 1. Auditioning for the Camera, 2. Acting for the Camera, 3. Playing the Villain on Camera. Part 2, “Acting,” will be our focus: Multiple scripts, including episodes of “Homeland,” “Mad Men,” and “Ted Lasso” will be part of the curriculum in addition to scripts from the following genres: comedies, drama, single and multi-camera TV (sitcoms), superhero franchises, horror, etc. This work should complement and enhance previous acting studies and help you move to an understanding of the nuanced shift actors need to make when they are acting for the camera. Kate Burton teaches ARTS 1006, \"Playing the Villain on Camera,\" and TAPS 1500R, \"Auditioning for the Camera.\" These courses (and any camera courses taught by Richard Waterhouse in TAPS) provide a foundation for studying camera acting."
+  },
+  {
+    "id": "ARTS 1013B",
+    "title": "Finalizing Your First Documentary Feature: Content Creation from Script to Screen",
+    "description": "This course is designed to teach students how to post-produce and finally complete a long-form (more than 42-minutes’ duration) documentary film suitable for television broadcast or distribution via internet channels and/or streaming services. The documentary (working title UNTITLED BROWN TITLE IX SPORTS DOCUMENTARY), produced and directed by Brown undergraduates during the 2024 Spring and Fall semesters, was commissioned in 2023 to celebrate Brown’s female athletes across the university’s history, emphasizing female intercollegiate athletes of the past half-century. This unprecedented course, made possible by the generous support of Brown Athletics, led by the Chancellor Samuel M. Mencoff ’78 Vice President for Athletics and Recreation, M. Grace Calhoun ’92, Ph.D, will premiere at events commemorating the 50th anniversary of Ivy League Women Sports at the end of the 2024-2025 academic year."
+  },
+  {
+    "id": "ARTS 1910G",
+    "title": "Artist@Work: Prisoner of Love (Basel Abbas and Ruanne Abou-Rahme)",
+    "description": "For this Artist@Work course, students will learn from and work closely alongside renowned sound, video, and installation artists Basel Abbas and Ruanne Abou-Rahme to develop their first major multimedia sound and video installation since 2022, tentatively titled Prisoner of Love. This project aims to celebrate the poetry, music, and art produced within global systems of incarceration in the present and historically. Students will collectively and individually support the artists’ research in a variety of ways: for example, by conducting research at the Hay Library’s Voices of Mass Incarceration in the United States archive; co-producing interview questions for subjects; and considering the unique challenges of staging a site-specific installation. The class outcomes far outlive one semester, as Prisoner of Love will debut as a visual art exhibition and performance program at The Bell in spring 2026."
+  },
+  {
+    "id": "ARTS 2004",
+    "title": "Theorizing Blackness",
+    "description": "Advanced introduction to critical theories of race and racialization. Investigation of blackness as a category of critical analysis for analyzing Afro-diasporic formations. Consideration of how blackness is shaped by gender, class, sexuality, and nationality."
+  },
+  {
+    "id": "ASYR 0320",
+    "title": "The Origin(s) of Science",
+    "description": "“Science begins with the Greeks” is a common refrain in popular introductions to science. But is it true? In this course we will explore a range of non-western scientific traditions, some of which can be dated much earlier than the Greeks, others of which are contemporary or later but which developed independently, in order to critically assess this claim and to better understand the diverse ways that science has developed and been practiced in different cultures. In doing so, we will reflect upon what we mean by “science” and question whether the way that we think about modern science biases our understanding of earlier scientific traditions."
+  },
+  {
+    "id": "ASYR 0900",
+    "title": "Longing and Lament: Exploring Love and Death in Ancient Near Eastern Literature",
+    "description": "Love and death are two life events inextricably entwined, and poets from Classical antiquity through to the modern day often make love and death prominent themes in their works. This course offers students the chance to engage with how these themes were explored in the poetry of the ancient Near East, focusing on ancient Iraq with parallels from the wider Middle East. The course will introduce how these two key aspects of human experience—love and death—were conceptualized and presented in the world’s oldest literature, particularly following the love story, and then demise, of the divine couple Inanna and Dumuzi. Analyzing erotic poetry, love incantations, sex omens, stories about journeying to the Netherworld, ritual laments and more, the course will explore the conceptual connections between love and death through the study of Sumerian and Akkadian literature in translation. No prerequisites."
+  },
+  {
+    "id": "ASYR 1010",
+    "title": "Intermediate Akkadian",
+    "description": "This course is the second semester of an introduction to the Akkadian (Babylonian/Assyrian) language. Students will deepen their knowledge of the cuneiform writing system and continue to develop their grasp of Akkadian grammar, focusing on the Standard Babylonian literary dialect. Readings from Mesopotamian texts in the original language and script will include, among others, selections from the Babylonian creation myth Enūma eliš, Assyrian historical texts, and the Standard Babylonian Epic of Gilgamesh. Prerequisite: Introduction to Akkadian (ASYR 0200; ASYR 1000) or permission of the instructor."
+  },
+  {
+    "id": "ASYR 1300",
+    "title": "The Age of Empires: The Ancient Near East in the First Millennium BC",
+    "description": "The first millennium BC saw a series of empires vying for control of the Near East: the Assyrians, the Babylonians, the Persians, and the Greeks of Alexander the Great and his successors. The course will explore the political, social and cultural history of Mesopotamia and the Ancient Near East under these empires, using evidence drawn from archaeology and ancient texts (in translation)."
+  },
+  {
+    "id": "ASYR 2800",
+    "title": "Archaeologies of Text",
+    "description": "An interdisciplinary seminar that examines the interplay between ancient texts and archaeology in the study of the ancient world. Emphasis will be placed on articulating and analyzing the research methods and assumptions found in case studies set in the ancient Near East, Mediterranean, East Asia, and the Americas. Topics will include: canons of literature as/versus ancient inscriptions; materiality of text; texts on display, in deposits, in archives, in libraries, as refuse; literacy and education; practices of documentation and analysis; writing, language, and ethnicity; historical geography; fakes and forgeries; ancient texts and archaeological ethics. No prerequisites. Intended primarily for graduate students."
+  },
+  {
+    "id": "ASYR 2990",
+    "title": "Thesis Preparation",
+    "description": "For graduate students who have met the residency requirement and are continuing research on a full time basis."
+  },
+  {
+    "id": "BHDS 2000",
+    "title": "Probability and Statistical Inference",
+    "description": "This course explores statistical concepts such as random variables, distributions, point and interval estimation, hypothesis testing, MLE, large-sample properties, bootstrap methods, and Bayesian methods. Emphasizing probability theory and mathematical statistics, the focus is on their application in biostatistics. Starting with foundational probability theory, the course progresses to statistical inference using data to understand unknown probability models in biomedical contexts. Key topics include fundamental probability ideas, foundational models, sample moments, sampling distributions, and practical applications in modeling."
+  },
+  {
+    "id": "BHDS 2010",
+    "title": "Statistical Programming for Health Data Science",
+    "description": "Statistical computing is an essential part of analysis as it enables us to pose and answer meaningful questions. Statisticians need not only to be able to run existing computer software but also to understand how that software functions and how to interact with data in a computational setting. As programmers, we will practice constructing a solution through logic and translating that logic into code with a focus on using these skills in statistical applications. This course will ask you to think in a computational manner by giving you a peek under the hood of R, focusing on key building blocks, and developing good coding practices. You will also learn to read and evaluate others' code through group exercises and using existing libraries in R."
+  },
+  {
+    "id": "BIOL 0080",
+    "title": "Biotechnology Management",
+    "description": "An examination of the pharmaceutical, biotechnology, and medical product industries: what they are, how they function, whence they originate, and various perspectives on why some succeed and others fail. Pathways from lab-bench to marketplace are described as are the pervasive influences of the FDA, patent office, and courts. Extensive reading; emphasis on oral presentation. Primarily intended for students planning a career in biomedical industry. Not for biology concentration credit. Enrollment limited to 20."
+  },
+  {
+    "id": "BIOL 0100",
+    "title": "Living Biology at Brown and Beyond",
+    "description": "BIOL0100 is a first year seminar designed for aspiring biology program students. The course introduces students to the people and opportunities in Brown’s Biology Program and fosters academic and soft skill development. Students will practice a range of laboratory methods used in molecular biology while examining the ways in which those methods are used in research and in the development of medical treatments. Students will hone their writing skills, learn to effectively read primary STEM literature, and consider how various disciplines in Biology come together to tackle critical global problems such as global environmental change and emerging infectious disease. BIOL 0100 is best suited for students with minimal experience in the biological sciences."
+  },
+  {
+    "id": "BIOL 0190S",
+    "title": "Phage Hunters, Part II",
+    "description": "A research-based laboratory/class for freshmen; both semesters are required. Students will isolate and characterize a bacteriophage viruses found in the soil. Lab work includes isolation and purification of your own phage, DNA isolation and restriction mapping, and EM characterization of your phage. Several phages will be selected for genome sequencing over Winter Recess, and annotated in the spring. One hour of lecture/discussion, and 3 hours lab per week. Expected: AP Biology or equivalent, HS chemistry, and permission of the instructor. Students are expected to take fall and spring courses in the sequence. Enrollment limited to 19 first-year students. Instructor permission."
+  },
+  {
+    "id": "BIOL 0280",
+    "title": "Biochemistry",
+    "description": "Lectures and recitation sections explore the mechanisms involved in the principles of macromolecular structure and function, the organization and regulation of pathways for intermediary metabolism, and the transfer of information from genes to proteins. Expected background: Cell and Molecular Biology (BIOL 0500) or another intermediate level course providing background in molecular level thinking, e.g. BIOL 0470, BIOL 0530 or NEUR 1020."
+  },
+  {
+    "id": "BIOL 0285",
+    "title": "Inquiry in Biochemistry: From Gene to Protein Function",
+    "description": "In this inquiry-based research course, students work in teams to formulate and test a hypothesis about how a change in genetic sequence affects enzyme function. Students will cultivate skills in scientific visualization, experimental design, data analysis, and laboratory techniques in molecular biology and biochemistry. In discussion, students will learn scientific writing through peer editing and iterative revisions to write a full scientific paper. This course is WRIT designated and will prepare students for writing an honors thesis. Expected: Students have previously taken or be concurrently enrolled in BIOL 0280. Enrollment in one lab section and one discussion section is required."
+  },
+  {
+    "id": "BIOL 0420",
+    "title": "Principles of Ecology",
+    "description": "The principles, concepts, and controversies involved in the study of the distribution and abundance of plant and animal populations and their integration into natural communities. Emphasizes interactions among organisms and the hierarchical nature of ecological processes affecting individuals, populations, and communities. Expected: BIOL 0200 (or equivalent) and MATH 0090. Lectures and weekly discussion."
+  },
+  {
+    "id": "BIOL 0430",
+    "title": "The Evolution of Plant Diversity",
+    "description": "Examines the evolutionary history of plants from a phylogenetic perspective. Introduces the principles of phylogenetics and the use of phylogenies to understand organismal evolution. Highlights major trends in plant evolution over the past 400 million years. Lectures survey major plant lineages, with special focus on flowering plants. Weekly labs and assignments stress basic plant anatomy and morphology, identification, and learning to recognize and appreciate the abundance, diversity, and uses of plants in daily life. Expected: BIOL 0200 (or equivalent placement)."
+  },
+  {
+    "id": "BIOL 0440",
+    "title": "Inquiry in Plant Biology: Analysis of Plant Growth, Reproduction and Adaptive Responses",
+    "description": "This course focuses on what plants do and how they do it. Introduces the biology of plants, their growth and development, structural features, and their cellular and organismal responses to key stimuli. Examines physiological, reproductive and developmental strategies throughout the plant life cycle and in relation to environmental challenges. During laboratory section meetings, students pursue inquiry-based group research projects addressing novel questions about mechanisms that control plant growth and development. Laboratory section is required. Prerequisites: One Brown course with laboratory section in either Biology or Chemistry. Enrollment limited to 24 students."
+  },
+  {
+    "id": "BIOL 0450",
+    "title": "Evolutionary Behavioral Ecology",
+    "description": "An exploration of the ecological and evolutionary principles that define animal behavior in the natural world. We will focus mostly on the field of behavioral ecology, including important phenomena like avoiding predators, obtaining food, finding mates, producing offspring, living in groups, and solving problems. In doing so, we will combine ideas and principles from the disciplines of ecology, systematics, physiology, and economics."
+  },
+  {
+    "id": "BIOL 0495",
+    "title": "Statistical Analysis of Biological Data",
+    "description": "A first course in probability distributions and the use of statistical methods for biological data. Topics covered will include describing data, statistical inference (hypothesis tests and confidence intervals), analyzing associations, and methods for categorical data (contingency tables and odds ratios). Methods will be applied to data drawn from areas of biological inquiry. For statistics or related science credit in Biology programs. Expected background: BIOL 0200 or equivalent, math equivalent to MATH 0100. This course is for related science credit only in Biological Sciences concentration programs."
+  },
+  {
+    "id": "BIOL 0500",
+    "title": "Cell and Molecular Biology",
+    "description": "This course examines the structure and function of the basic unit of an organism, the cell. An experimental approach is used to examine cellular functions, ranging from gene transcription, cell division and protein secretion, to cell motility, and signal transduction. Relevance to health and disease will be considered. Expected: BIOL 0200 (or equivalent advanced placement biology 4/5)."
+  },
+  {
+    "id": "BIOL 0510",
+    "title": "Introductory Microbiology",
+    "description": "Introduces role of microbes in our understanding of biology at the cellular and molecular level. Focuses on microbial significance for infectious disease, public health, genetics, biotechnology, and biogeochemical cycles. Laboratory involves basic microbiological techniques and selection and manipulation of microbes. Expected: BIOL 0200 (or equivalent placement). Students MUST register for the lecture section and the lab. Enrollment limited to 108."
+  },
+  {
+    "id": "BIOL 0610",
+    "title": "Modeling Human Disease Using Stem Cells",
+    "description": "In this COEX and CBLR course, students will have the opportunity to develop their own hypothesis-driven research question with a focus on pluripotent stem cell biology and Alzheimer’s Disease (AD). Understanding how to manipulate pluripotent stem cells is vital in studying normal developmental processes and what goes awry in a disease. Students in this course will propose and carry out their own research project utilizing human iPSCs to further understand pathological cellular states associated with AD using patient lines. The research project will be developed at the beginning of the semester with in-lab work carrying out the proposed set of experiments, analyzing the data and presenting the results in a scientific poster session. Students will also be able to translate the biology of the disease to clinical experiences, community outreach, and patient interactions in the surrounding community. For advanced undergraduates."
+  },
+  {
+    "id": "BIOL 0620",
+    "title": "Fermentation to publication: Experimental food microbiology",
+    "description": "Fermentation is a natural metabolic process crucial in food production worldwide. To understand the art and science of fermentation, we need to delve into the complex interplay of polymicrobial communities, where multiple microbial species interact, collaborate, and compete to produce the fermented product. In this CURE (Course-based Undergraduate Research Experience) class, students will jointly conduct a novel research project on the role of polymicrobial communities in fermentation. Each year, we will conduct new experiments to answer an innovative scientific question. They will then run data analysis and draft a paper for publication. In addition to the lab and writing component, the class will incorporate a lecture-based session and student-led presentations about the science/research of other types of fermented foods. The class will culminate in a written final project where students will propose and outline a novel experiment for next year."
+  },
+  {
+    "id": "BIOL 0800",
+    "title": "Principles of Physiology",
+    "description": "Introduction to the function of organ systems with an emphasis on human physiology, includes basic concepts in cell and organ system physiology as well as fundamentals of modern trends in physiological science, emphasizes the application of physical and chemical principles to organ function at both the cellular and systemic levels. Expected: BIOL 0200 or equivalent."
+  },
+  {
+    "id": "BIOL 1040",
+    "title": "Ultrastructure/Bioimaging",
+    "description": "This course examines microscopy and image analysis in the life sciences. Theoretical and practical aspects of microscopy will be discussed. Students will obtain hands-on experience with electron microscopy, light microscopy, fluorescence microscopy, and confocal microscopy. Students will learn to display images in 3D. Advanced undergraduates. Instructor permission required."
+  },
+  {
+    "id": "BIOL 1150",
+    "title": "Stem Cell Engineering",
+    "description": "Stem cell engineering focuses on using adult, embryonic, and induced pluripotent stem cells to repair damaged or diseased tissues. This course will examine the role of stem cells in development, tissue homeostasis, and wound healing, as well as how they can be used for tissue engineering and cell-based regenerative therapies. We will also discuss the ethical, legal, and regulatory issues that accompany current and emerging stem cell engineering endeavors. The course will use an inverted lecture and classroom discussion format to effectively deliver relevant information. Emphasis is placed on oral and written communication skills applied to assignments, tests, and individual projects. As an additional part of this course, students will receive hands-on training in how to culture cells and assess samples for stemness characteristics in a group laboratory setting."
+  },
+  {
+    "id": "BIOL 1222A",
+    "title": "Current Topics in Functional Genomics",
+    "description": "A technological revolution in genomics has exponentially increased our ability to gather biological data. A host of new methods and types of analysis has arisen to accommodate this dramatic shift in data collection. The broad scope of inquiry has ushered in an era of “system-wide” approaches and brute-force strategies where rare signals can be detected and studied. In this seminar we will cover papers that embody this new approach. Students typically have taken an advanced undergraduate-level course in biology."
+  },
+  {
+    "id": "BIOL 1250",
+    "title": "Host-microbiome Interactions in Health and Disease",
+    "description": "Will focus on current understanding of how various microbiomes communicate and interact with the host and the factors that influence these interactions. We will discuss how the new technologies such as metagenomics and metabolomics have enhanced our understanding of host-microbiome interactions in health and disease. Students will have the opportunity to participate in discussions on how to apply recent discoveries to disease processes, health restoration and maintenance. The course will help students develop skills in critical thinking and in reading and evaluating original scientific literature. Expected: students with a background in basic microbiology (BIOL 0530 or its equivalent). 20 enrollment."
+  },
+  {
+    "id": "BIOL 1295",
+    "title": "Fundamentals of Cancer Immunotherapy",
+    "description": "Fundamentals of Cancer Immunotherapy focus on how are understanding of the relationship of cancer with the host immune system has allowed the development of a new generation of therapies. The course will be delivered by lecture/seminar and group discussions. The course covers contemporary knowledge of tumor-immune cell interactions, and the principles of immunotherapeutic approaches currently being applied in the clinic and in development. The course is designed so that students will view cancer immunotherapy through a range of different lenses; from intricate molecular details to cellular ecosystems and organismal effects. Lecture materials will provide detailed descriptions of the basic concepts involved and original research articles will be used to help develop critical thinking in the cancer immunotherapy field.\n\nRecommended Prerequisites: At least two of the following or their equivalents: BIOL 0280, BIOL 0500, BIOL 0470, BIOL 0530, BIOL 1290"
+  },
+  {
+    "id": "BIOL 1330",
+    "title": "Biology of Reproduction",
+    "description": "This course is an advanced, seminar-based course. Primary literature is emphasized to complement the format of extensive student seminar presentations. It is essential that students have a strong background in biology in order to gain the most from this course. The emphasis of the course is student seminar presentation and extensive discussion on the material. This is often the first opportunity for students to present/discuss science in a seminar format. Expected background: a course in Cell Biology (e.g. BIOL 0500 or 1050), and two additional Biology courses above the introductory (BIOL 0200) level. Enrollment limited to 20."
+  },
+  {
+    "id": "BIOL 1435",
+    "title": "Computational Methods for Studying Demographic History with Molecular Data",
+    "description": "This course broadly covers the field of population genetics and genomics, and focuses on how inferences about demographic history can be made from genetic variation observed across populations today. The main question we will endeavor to answer in class is “How can we infer demographic history in a population using next-generation sequencing data?” Students will also learn how to apply computational tools/methods to infer demographic history using both simulated and real DNA sequencing data."
+  },
+  {
+    "id": "BIOL 1525",
+    "title": "Pathogenomics: Analysis, interpretation and applications of microbial genomes",
+    "description": "Pathogen genomes offer a wealth of information—from the discovery of new gene functions to helping to pinpoint the source of a food borne disease outbreak—and have become an increasingly widespread tool in microbiology in recent years. This course will introduce the fundamentals of genome sequencing and analysis for the study of microbial pathogens, and discuss current applications of these techniques in diverse microbial taxa (viruses, bacteria, fungi and parasites). In addition to lectures, the course will include hands-on computational analysis of pathogen genomic data in which students will learn how to analyze genomic data and apply these skills to an independent project investigating a novel question using a publicly available genomic dataset. Students should have taken introductory courses in genetics or microbiology (either BIOL0470 or BIOL0510) and programming (CSCI0111 or higher) prior to enrolling in this class."
+  },
+  {
+    "id": "BIOL 1530",
+    "title": "Emergency Medical Systems: An Anatomy of Critical Performance",
+    "description": "Students taking BIOL 1530 will explore Emergency Medicine and the many subjects that make up the practice of providing care to patients at the most critical and dire moments of their lives. We will read, discuss, and write about Trauma, Medical Malpractice, Death and Dying, Refugee and Disaster Medicine, Interpersonal Violence, and Crisis focused Medical Ethics, among others, all viewed through the lens of Emergency Medicine. You will shadow in the Emergency Department of a Trauma Center and debrief with your TA’s in weekly meetings, where the class topics will be discussed in open forums. This class, formerly PHP1520, has created a transformative experience for more than 30 years and will continue to foster new perspectives and ideas for every student who participates."
+  },
+  {
+    "id": "BIOL 1540",
+    "title": "Molecular Genetics",
+    "description": "Even in this era when whole genome DNA sequencing has become routine, there are still thousands of eukaryotic genes with unknown functions. Genetic screens for mutations that alter pathways of interest remain the premier approach to understanding gene function in the context of the organism. In Molecular Genetics students will learn the key concepts involved in designing and interpreting genetic screens using the powerful tools available in model animal, plant, and fungal organisms. Students will also learn how to understand and analyze results presented in the primary scientific literature. Furthermore, students will gain an appreciation of how the field of genetics has changed through discoveries and technological advances made over the past 50 years. Graduate students should register for BIOL 2540."
+  },
+  {
+    "id": "BIOL 1545",
+    "title": "Human Genetics and Genomics",
+    "description": "This course will exemplify the power of genetically informed approaches to understanding human biology. It is intended for advanced undergraduate students and graduate students; prerequisites include BIOL0470 or equivalent. The course is based in lectures, reading material (textbook and primary literature), and in-class discussions. Course topics include: medical genetics and genomics; methods to study human genotypes and related phenotypes; industry-related topics; and ethical and societal implications of genome science. It will benefit students with career interests in basic science, medicine, biotechnology, or science policy. Enrollment is limited to 20 students; selection will be based on seniority, prerequisites, and registration order."
+  },
+  {
+    "id": "BIOL 1555",
+    "title": "Methods in Informatics and Data Science for Health",
+    "description": "The goal of this course is for students to develop a solution that uses data science and informatics approaches to address a biomedical or health challenge. This course will teach informatics and data science skills needed for public health and biomedicine research. Emphasis will be given to algorithms used within the context of biomedical research and health care, including those used in biomolecular sequence analysis, electronic health records, clinical decision support, and public health surveillance. This course has been developed as a Course-based Undergraduate Research Experience (CURE), where students will gain experience with the scientific method, its application, and presentation."
+  },
+  {
+    "id": "BIOL 1580",
+    "title": "Metabolism Across Biological Scales: Integrative Physiology and Pathobiology",
+    "description": "Metabolism is a fundamental biological process encompassing all chemical reactions in the human body. The genetic diversity of trillions of microorganisms that live in and on the host further enhances the chemical diversity in mammals. Metabolic perturbation underlies almost all human diseases. Recent advances in analytical tools such as high-resolution mass spectrometry and imaging mass spectrometry, the use of stable isotope tracing and metabolic flux analysis, as well as the development of genetically encoded sensors and mathematical modeling have provided critical insights into mammalian biology in health and diseases. This course provides historical perspectives and explores recent advances in various metabolism-related topics. It is designed to be interactive and includes guest lectures from renowned scientists and learning modules to develop skills in creative writing, critical thinking, science communication, and artistic expression. Discussion sessions are included to promote scientific communication skills."
+  },
+  {
+    "id": "BIOL 1610",
+    "title": "Experimental Neurobiology",
+    "description": "Please see NEUR1600 for registration instructions. Intensive laboratory experience in neuroscience appropriate for students with basic background in Neurobiology. Learn and employ the classical neurophysiological techniques of extracellular recording, intracellular recording and receptive field mapping using a variety of animal species. Experiments will include recording of sensory signals in the cockroach leg; frog sciatic nerve and sciatic nerve/muscle preparation; intracellular recording of neurons in Aplysia; receptive field mapping in frog skin; and visual field mapping in the frog tectum. Instruction on and practice of effective science writing is another component to this course. Labs are supplemented by informal lectures. Enrollment limited to 18."
+  },
+  {
+    "id": "BIOL 1810",
+    "title": "21st Century Applications in Cell and Molecular Biology",
+    "description": "Twenty-first century applications in cell and molecular biology focuses on the structure and function of macromolecules and cells and how they are altered in disease and therapy. This course will explore physical principles underlying cell function, along with biophysical approaches for solving problems of cell and molecular biology. Cutting-edge molecular and cellular-based therapeutics will be discussed throughout this course; this includes viral gene delivery constructs, novel platforms for tissue engineering, CRISPR genome editing, and immune checkpoint therapy. This course is particularly suitable for undergraduate students interested in basic medical research, graduate school, or research-based careers in biotechnology or pharmaceutical industry."
+  },
+  {
+    "id": "BIOL 1820",
+    "title": "Environmental Health and Disease",
+    "description": "Humans live, work, and play in complex chemical environments. BIOL1820 examines how environmental exposures impact health and contribute to disease. We will discuss contamination in the context of colonialism and capitalism as well as critically assess the ways society shapes science as a discipline. The course covers basic concepts in toxicology, physiology, and molecular biology and is divided into 6 units. The first unit, Science, Society, and Scientific Funding, will introduce you to the main themes of the course. The remainder of the course will be divided into the following units: radiation, lead, per- and polyfluoroalkyl substances (PFAS), endocrine disruptors, and emerging environmental concerns. For each unit, students will learn how contamination affects different communities and examine the biological systems impacted by contaminant exposure. BIOL1820 is designed for third and forth year undergraduates, and is open to others with permission."
+  },
+  {
+    "id": "BIOL 1885",
+    "title": "Human Anatomy and Biomechanics",
+    "description": "Human Anatomy and Biomechanics examines the structure of the human body from the perspectives of biomechanics, evolution, and development, focusing on the musculoskeletal system, sensory systems, and the complex, multifunctional organ of the human skin. The course considers biological form and function at multiple levels of organization and in diverse contexts, and offers students opportunities to synthesize, question, and write about ideas presented in class. The course includes a weekly, 2-hr laboratory section in which students will use kinesthetic learning to develop deep knowledge of anatomico-medical terminology, study osteology and develop powers of observation working with human and non-human animal bones, dissect a preserved rabbit specimen to learn the soft-tissue anatomy of a mammal and visit the human anatomy dissection lab at the Alpert Medical School."
+  },
+  {
+    "id": "BIOL 2010B",
+    "title": "Introduction to Data Science in Molecular Biology",
+    "description": "In this course, second year PhD students in the Molecular Biology, Cell Biology, and Biochemistry Graduate Program (MCBGP) will learn about the basic methodologies to analyze and interpret omics datasets. This course combines lectures with hands-on workshops on data science applied to molecular research for the analysis of nucleic acids and proteins. Student will acquire knowledge of the data generated by modern molecular biology, and of the computational methods used to analyze and interpret these datasets. The hands-on workshop will teach students how to utilize the state-of-the-art computational workflows to create reproducible pipelines for data analysis. Students will also learn the best practices in data management, organization and sharing, with a focus on the big data generated by modern sequencing techniques in the life sciences. Enrollment is restricted to second year MCBGP PhD students. This is a half credit course."
+  },
+  {
+    "id": "BIOL 2018",
+    "title": "Management Strategies in Biotechnology",
+    "description": "This course, taken the second semester, goes in depth into the numerous strategies in biotechnology. Significant differences in the strategies of small companies versus large companies, and device companies versus drug companies will be discussed with ample use of biotechnology case studies. At the end of this course, the successful student will: 1. Understand the process of managerial decision making in the pharma/biotech industry\n2. Understand the basic principles of Decision Science, the application of quantitative analysis (modeling) to inform managerial decision making\n3. Gain exposure to basic frameworks and tools used by management consultants to define strategic options"
+  },
+  {
+    "id": "BIOL 2025",
+    "title": "Foundations in Statistics for Biology and Medicine",
+    "description": "This course provides essential statistical knowledge and skills for conducting graduate research in biology and medicine. Using statistical analysis software, students will engage in hands-on analysis of biological and medical data, covering a range of topics including data cleaning and shaping, descriptive statistics, probability distributions, parametric and non-parametric tests, correlation, mean differences, analysis of variance, regression (linear and logistic), and graphical presentation of data as well as an overview of more advanced methods. By the end of the course, students will demonstrate their learning into a final project that demonstrates the application of statistical methods to a real-world research problem."
+  },
+  {
+    "id": "BIOL 2040",
+    "title": "Ultrastructure/Bioimaging",
+    "description": "This course examines microscopy and image analysis in the life sciences. Theoretical and practical aspects of microscopy will be discussed. Students will obtain hands-on experience with electron microscopy, light microscopy, fluorescence microscopy, and confocal microscopy. Students will learn to display images in 3D. For graduate students and advanced undergraduates. Instructor permission required."
+  },
+  {
+    "id": "BIOL 2078",
+    "title": "Regulatory Affairs in Pharma, Med Device and Digital Health",
+    "description": "In a global regulatory environment, learning the process of moving a medical device, drug or biologic from conception to market can be daunting. This course will provide the framework for regulatory affairs strategic knowledge with a focus on the process from development to commercialization, and post commercialization in a global environment. This course is particularly suitable for students interested in pursuing a career within a biotechnology company, or for those interested in developing a foundational understanding of how regulatory and health authorities regulate products in order to safely and effectively bring products to patients. Preference given to Biotechnology Masters Therapeutic Science PhD."
+  },
+  {
+    "id": "BIOL 2135",
+    "title": "Pharmacokinetics and Drug Design",
+    "description": "Consists of the absorption, distribution, metabolism, and elimination of drugs. These factors, including dosage, determine the concentration of drugs at its sites of action, and intensity of effects. Will examine models describing the relationship between plasma drug concentrations and therapeutic drug effect. Will acquire biologic sampling techniques, analytic methods for measurement of drugs and metabolites, and procedures facilitating data used in designing drugs and dosage regimens. Prerequisite: BIOL 0800 or equivalent. Enrollment limited to 20. Preference given to graduate students in Biotechnology and BME, especially Masters students. Graduate students (PhD and ScM) from other programs enroll if permission of instructor is granted."
+  },
+  {
+    "id": "BIOL 2145",
+    "title": "Molecular Targets of Drug Discovery",
+    "description": "This course emphasizes the role of cell physiology in the identification of drug targets and the development of novel drugs. Specific protein drug targets such as G-protein coupled receptors will be examined in detail from identifying a target to development of drugs for that target and the physiological consequences. Prerequisite: BIOL 0800. Enrollment limited to 20. Preference is given to graduate students in Biotechnology and BME, especially Masters students. Graduate students from other programs may enroll if permission of the instructor is granted. Students must request an override code through C@B."
+  },
+  {
+    "id": "BIOL 2167",
+    "title": "In Vitro Models for Disease",
+    "description": "This course will use case studies to examine high burden diseases, their pathophysiology, treatment, and the models used to study the disease. Literature will be used to discuss the current models for the disease and the associated limitations of each of these models. The course will also cover the use of animals in research and how new in vitro models could be used to decrease their use. This course is intended for graduate students in biology, engineering, or related fields. Prerequisites: BIOL 0200 and 0800, or equivalent. Enrollment limited to 20 graduate students."
+  },
+  {
+    "id": "BIOL 2170",
+    "title": "Molecular Pharmacology and Physiology",
+    "description": "Fundamental concepts in pharmacology and physiology from the cellular/molecular level to organ systems. Required of first-year graduate students in Therapeutic Sciences. Students must request an override code through C@B."
+  },
+  {
+    "id": "BIOL 2180",
+    "title": "Experiential Learning Industry, ELI",
+    "description": "Experiential Learning in Industry is restricted to biomedical engineering (BME) Sc.M. and biotechnology (Biotech) Sc.M. students, permission also required. The course is an extended in-depth learning experience in an industry environment related to the discipline of BME and Biotech. Industry environments include; medical device, pharmaceutical or biotechnology and industries that provide BME and Biotech relevant services to the aforementioned companies including patent law, licensing, regulatory and consulting. Students will pursue Experiential Learning in Industry during one summer plus one semester or during two semesters for which they will receive credit towards their degree. This course is restricted to BME and Biotech Masters students only. Students must have successfully completed the first year of the BME Masters Program. Slots are limited so permission is required."
+  },
+  {
+    "id": "BIOL 2222B",
+    "title": "Current Topics in Functional Genomics",
+    "description": "A technological revolution in genomics has exponentially increased our ability to gather biological data. A host of new methods and types of analysis has arisen to accommodate this dramatic shift in data collection. The broad scope of inquiry has ushered in an era of “system-wide” approaches and brute-force strategies where rare signals can be detected and studied. In this seminar we will cover papers that embody this new approach. Students typically have taken an advanced undergraduate-level course in biology."
+  },
+  {
+    "id": "BIOL 2240",
+    "title": "Biomedical Engineering and Biotechnology Seminar",
+    "description": "See Biomedical Engineering and Biotechnology Seminar (BIOL 2230) for course description."
+  },
+  {
+    "id": "BIOL 2350",
+    "title": "The Biology of Aging",
+    "description": "Aging is a fundamental biological process. It is the major risk factor for age-related diseases such as cancer, cardiovascular disease, stroke, osteoporosis, arthritis and Alzheimer's, just to name a few. As life expectancy has increased in the 20th century, these diseases have become the leading causes of death. Recent research has identified universal mechanisms that regulate organismal aging and impact all organ systems. Several gene networks that can regulate the rate of aging and multiple age-related diseases have already been discovered. These mechanisms are conserved throughout evolution and many key insights have been garnered from simple model organisms. Manipulation of these networks has been achieved by diet, genetic engineering, and most recently, with drugs. The goal of modern medicine is to increase healthy survival, as opposed to simply longevity. It is now generally acknowledged that increasing health span – the fraction of our life spans free of frailty and debilitating chronic disease – has become a realistic goal. This course will examine the new concept of \"geroscience\" – the molecular, cellular, and genetic foundations of the biology of aging, and how this knowledge can be applied to therapies for age-associated diseases. Course material will be based on the primary research literature. Prerequisites are a background in cell biology, molecular biology and genetics - such as BIOL0470, BIOL0280, BIOL0200, and BIOL0800."
+  },
+  {
+    "id": "BIOL 2440",
+    "title": "Topics in Ecology, Evolution and Organismal Biology",
+    "description": "See Topics In Ecology And Evolutionary Biology (BIOL 2430) for course description."
+  },
+  {
+    "id": "BIOL 2528",
+    "title": "Innovation and Commercialization in Medical Devices, Diagnostics, and Wearables",
+    "description": "This course provides a comprehensive overview of concepts and steps involved in developing and commercializing novel technology/scientific breakthroughs for medical devices, diagnostics and wearables. This course is particularly suitable for students interested in pursuing a career within a medical device segment, or creating innovation-based companies, as well as for those interested in developing an in-depth knowledge of evolution of medical devices from research concepts to products in the market."
+  },
+  {
+    "id": "BIOL 2540",
+    "title": "Molecular Genetics",
+    "description": "Even in this era when whole genome DNA sequencing has become routine, there are still thousands of eukaryotic genes with unknown functions. Genetic screens for mutations that alter pathways of interest remain the premier approach to understanding gene function in the context of the organism. In Molecular Genetics students will learn the key concepts involved in designing and interpreting genetic screens using the powerful tools available in model animal, plant, and fungal organisms. Students will also learn how to understand and analyze results presented in the primary scientific literature. Furthermore, students will gain an appreciation of how the field of genetics has changed through discoveries and technological advances made over the past 50 years. Undergraduate students should register for BIOL 1540."
+  },
+  {
+    "id": "BIOL 2545",
+    "title": "Human Genetics and Genomics",
+    "description": "This course will exemplify the power of genetically informed approaches to understanding human biology. It is intended for advanced undergraduate students and graduate students; prerequisites include BIOL0470 or equivalent. The course is based in lectures, reading material (textbook and primary literature), and in-class discussions. Course topics include: medical genetics and genomics; methods to study human genotypes and related phenotypes; industry-related topics; and ethical and societal implications of genome science. It will benefit students with career interests in basic science, medicine, biotechnology, or science policy. Enrollment is limited to 20 students; selection will be based on seniority, prerequisites, and registration order."
+  },
+  {
+    "id": "BIOL 2970",
+    "title": "Preliminary Examination Preparation",
+    "description": "For graduate students who have met the tuition requirement and are paying the registration fee to continue active enrollment while preparing for a preliminary examination."
+  },
+  {
+    "id": "BIOL 2990",
+    "title": "Thesis Preparation",
+    "description": "For graduate students who have met the residency requirement and are continuing research on a full time basis."
+  },
+  {
+    "id": "CHEM 0330",
+    "title": "Equilibrium, Rate, and Structure",
+    "description": "Explores the electronic structure of atoms and molecules, thermodynamics, solution equilibrium, electrochemistry, chemical kinetics, and reaction mechanisms. To successfully register for this course , please include all three components: lecture, lab, and conference. Students who previously passed 0330 lab may be excused from repeating the lab portion of the course, please register for L11 as your lab section. Required background: CHEM 0100 or AP Chemistry 4 or CHEM Placement Test 8 or IBH Chemistry."
+  },
+  {
+    "id": "CHEM 0330L",
+    "title": "Equilibrium, Rate, and Structure Lab",
+    "description": "Please see course description for CHEM 0330."
+  },
+  {
+    "id": "CHEM 0350",
+    "title": "Organic Chemistry I",
+    "description": "Investigates the constitution and properties of organic compounds, with considerable attention to structural motifs, isomerism and chirality, acid/base chemistry, elementary reaction mechanisms (alkene/alkyne addition, nucleophilic substitutions, eliminations, etc.) and synthetic schemes. The laboratory work comprises microscale preparative and analytical techniques fundamental to the manipulation of representative organic compounds. Prerequisite: CHEM 0330 Students must register for the main lecture section and one lab section. Students who previously passed the CHEM 0350 lab may be excused from repeating the lab portion of the course, please register for lab section L11 as your lab section."
+  },
+  {
+    "id": "CHEM 0350L",
+    "title": "Organic Chemistry I Lab",
+    "description": "Please see course description for CHEM 0350."
+  },
+  {
+    "id": "CHEM 0400",
+    "title": "Biophysical and Bioinorganic Chemistry",
+    "description": "Examines aspects of physical and inorganic chemistry relevant to biochemistry: thermodynamics of hydrophobic and hydrophilic interactions, electrically charged membranes, coordination chemistry, active and passive transport, enzyme kinetics and mechanisms, metal-based drugs, and physical methods. Prerequisite: CHEM 0360. Prerequisite or corequisite: PHYS 0040 or 0060."
+  },
+  {
+    "id": "CHEM 0500",
+    "title": "Inorganic Chemistry",
+    "description": "Examines the chemistry of main group and transition metal elements with treatment of covalent bonding and molecular structure. Emphasis will be placed on the methods of studying inorganic compounds and reactions, as well as their pervasiveness in real-world applications. Students will have the opportunity to develop their scientific writing through a peer-reviewed review paper project connecting inorganic chemistry to a topic of their choice. Prerequisite: CHEM 0360."
+  },
+  {
+    "id": "CHEM 0600",
+    "title": "Preparative Chemistry Lab",
+    "description": "This course is designed to develop advanced skills in chemical synthesis and analysis as preparation for work in a modern synthetic chemistry research environment. Students will perform synthesis of new chemical compounds using advanced techniques including air-free Schlenk and glovebox techniques, microwave synthesis, photocatalytic methods, and others. Students will also learn how to characterize their synthesized compounds using 2D NMR, ESI mass spectrometry, EPR spectroscopy, and other methods. The course consists of 1 hour of lecture per week discussing various techniques and applications and 4 hours of laboratory time. This course counts for 0.5 credits."
+  },
+  {
+    "id": "CHEM 0986",
+    "title": "From Molecules to Masterpieces: Chemistry's Influence on Culture and Art",
+    "description": "“From Molecules to Masterpieces: Chemistry's Influence on Culture and Art” delves into the intricate connections between chemistry and art within their historical contexts. This interdisciplinary course offers a fresh perspective, placing emphasis on cultural exploration and underscoring chemistry's profound influence on artistic expressions throughout history. Topics encompass the utilization of color in art, chemical analysis of pigments, art conservation, ceramics, pottery, stained glass, and more. The course content will revolve around cultivating engaging discussions through a series of case studies, providing students with opportunities to engage in hands-on activities and complete insightful writing assignments. By the end of the course, students will have acquired a deep-seated understanding of how chemistry has shaped human creativity, cultural identity, and artistic expression."
+  },
+  {
+    "id": "CHEM 1150",
+    "title": "Physical Chemistry: Thermodynamics and Statistical Mechanics",
+    "description": "Examines the question: Where does chemical equilibrium come from? Focuses on macroscopic perspectives on chemical systems and the molecular origins of macroscopic behavior along with elements of statistical mechanics, the laws of thermodynamics, and the relationships between the two. Prerequisite: CHEM 1140"
+  },
+  {
+    "id": "CHEM 1160",
+    "title": "Physical Chemistry Laboratory",
+    "description": "An introduction to modern instrumentation and experimental techniques as applied to physical chemistry. Experiments will emphasize application of the ideas of spectroscopy, kinetics, statistical mechanics, and thermodynamics to systems of chemical and biochemical interest. Prerequisites: CHEM 1140 or permission of the instructor."
+  },
+  {
+    "id": "CHEM 1230",
+    "title": "Chemical Biology",
+    "description": "This course covers topics at the interface of chemistry and biology and, specifically, the use of chemical tools to probe biological systems. Using examples from the recent literature, we will discuss using the central methods of chemistry, namely the ability to design and synthesize compounds with a particular set of properties, to analyze biological problems. Specific topics include molecular recognition of DNA, artificial enzymes, small molecule sensors, and in vivo imaging of proteins, nucleic acids, and cell-surface carbohydrates. Prerequisites: CHEM 0360 and BIOL 0280."
+  },
+  {
+    "id": "CHEM 1450",
+    "title": "Advanced Organic Chemistry",
+    "description": "Lectures cover topics of current interest in organic reaction mechanisms, synthesis, and structure determination. Prerequisite: CHEM 0360."
+  },
+  {
+    "id": "CHEM 1560G",
+    "title": "Nuclear Magnetic Resonance",
+    "description": "These special topics courses cover the basics of modern NMR spectroscopy. Topics to be included are as follows: modern Fourier transform methodology, modern NMR instrumentation, and a comprehensive discussion of one and two dimensional experiments that are routinely performed. Topics such as coherence transfer and pulsed field gradients will also be included. Experimental methods covered in detail include COSY, TOCSY, HSQC, HMBC, NOSEY, ROSEY, EXSY and DOSY methodology. This course will not focus on structure determination or spectral interpretation but rather on experimental methodology."
+  },
+  {
+    "id": "CHEM 1560P",
+    "title": "Applications of Modern Physical Methods in Synthesis",
+    "description": "The modern synthetic chemist leverages a wide range of physical methods to answer research questions in diverse application areas ranging from renewable energy, medicine, materials, complex molecule synthesis, and others. Students will develop a working knowledge of modern techniques applied to synthesis, learning fundamental principles, experimental limitations, and interpretation of experimental results. Selected techniques may include: Nuclear Magnetic Resonance (NMR), Electron Paramagnetic Resonance (EPR), Fluorimetry, Absorption Spectroscopy (UV-Vis, IR, X-ray), Diffraction (X-ray), Magnetometry, Electrochemistry, and Mass-Spectrometry. Emphasis will be placed on how techniques are relevant in current research areas, and the instrumental capabilities available at Brown University."
+  },
+  {
+    "id": "CHEM 1560R",
+    "title": "Reimagining the Role of Chemists",
+    "description": "Reimagining the Role of Chemists teaches chemistry in the context of today’s issues. This course investigates chemistry’s entanglements with colonialism, anti-black racism, and environmental injustice. In the hopes of regrounding chemistry, reorienting its values, and reimagining its future, we engage with diverse histories, perspectives, and impacts that have often been rendered invisible. Together, we will consider how to transition from a false pretense of objectivity to a just and beneficial practice of chemistry."
   }
 ]
