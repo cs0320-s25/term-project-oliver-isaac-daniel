@@ -36,9 +36,8 @@ async def scrape_courses():
             await link.scroll_into_view_if_needed()
             await link.click()
 
-            await page.wait_for_selector(".dtl-course-code", timeout=10000)
-
             try:
+                await page.wait_for_selector(".dtl-course-code", timeout=10000)
                 course_data = await extract_course_data(page)
                 all_courses.append(course_data)
                 print(f"Scraped {idx + 1}/{count}: {course_data['id']}")
