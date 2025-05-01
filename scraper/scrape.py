@@ -14,7 +14,7 @@ CAB_URL = "https://cab.brown.edu/"
 
 async def scrape_courses():
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=False)  # Set headless=True to hide browser
+        browser = await p.chromium.launch(headless=True)  # Set headless=True to hide browser
         page = await browser.new_page()
         
         await page.goto(CAB_URL)
@@ -30,11 +30,12 @@ async def scrape_courses():
 
         all_courses = []
 
-        # 25 substituted for count so we don't go through all of them
-        for idx in range(225):
+        #we can substitute arbitrary numbers less than count for count if we only want to test on a few
+        for idx in range(count):
             link = course_links.nth(idx)
             await link.scroll_into_view_if_needed()
             await link.click()
+            await asyncio.sleep(0.05)
 
             try:
                 await page.wait_for_selector(".dtl-course-code", timeout=10000)
@@ -44,17 +45,18 @@ async def scrape_courses():
             except Exception as e:
                 print(f"Error scraping course {idx + 1}: {e}")
 
-            # 🔁 Always close the panel, even if scraping failed
+            #Always close the panel, even if scraping failed, that way we can continue iterating properly
             try:
                 await page.wait_for_selector(".panel__content")
                 panel = page.locator(".panel__content").nth(-1)
                 await panel.locator(".panel__back").click()
+                await asyncio.sleep(0.05)
                 await page.wait_for_selector(".result__link")
             except Exception as e:
                 print(f"Error clicking back after course {idx + 1}: {e}")
 
 
-        # Save data
+        #Save data
         with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
             json.dump(all_courses, f, indent=2, ensure_ascii=False)
 
