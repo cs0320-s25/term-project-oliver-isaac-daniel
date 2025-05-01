@@ -14,7 +14,7 @@ CAB_URL = "https://cab.brown.edu/"
 
 async def scrape_courses():
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=False)  # Set headless=True to hide browser
+        browser = await p.chromium.launch(headless=True)  # Set headless=True to hide browser
         page = await browser.new_page()
         
         await page.goto(CAB_URL)
