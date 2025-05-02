@@ -8,6 +8,7 @@ chmod +x setup.sh
 ./setup.sh
 
 To run the backend:
+
 First, cd into server directory
 
 ./run
