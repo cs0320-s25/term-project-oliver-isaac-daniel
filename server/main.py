@@ -9,6 +9,7 @@ app = FastAPI()
 # New response object for a single course
 class CourseScore(BaseModel):
     course: str
+    id: str
     score: float
 
 # New overall response
@@ -34,10 +35,11 @@ def score_endpoint(request: ScoreRequest):
 
     # Match descriptions back to course titles/IDs
     course_score_pairs = [
-        {"course": course["title"], "score": score}
+        {"course": course["title"], "id": course["id"], "score": score}
         for course, score in zip(all_courses, scores)
     ]
 
+    # Sorts courses by score in descending order
     course_score_pairs.sort(key=lambda x: x["score"], reverse=True)
 
     return ScoreResponse(results=course_score_pairs[:request.num_courses])
