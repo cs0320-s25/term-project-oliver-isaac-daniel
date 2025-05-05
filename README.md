@@ -1,4 +1,4 @@
-# term-project
+# Course Recommendation System
 
 Server:
 To set up, run the following two commands in the base project directory:
