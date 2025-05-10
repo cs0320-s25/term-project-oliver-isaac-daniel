@@ -45,7 +45,7 @@ def score_endpoint(request: ScoreRequest):
 
     # Build list of scored course results
     course_score_pairs = [
-        {"course": course["title"], "id": course["id"], "score": score}
+        {"course": course["title"], "id": course["id"], "score": score, "department": course["department"]}
         for course, score in zip(all_courses, scores)
     ]
 
