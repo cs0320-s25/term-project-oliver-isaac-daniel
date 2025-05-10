@@ -13,7 +13,7 @@ export interface Course {
 }
 
 // Toggle between mock mode and real ML backend
-const useMockData = true;
+const useMockData = false;
 
 export function CourseSearchPage() {
   const [courses, setCourses] = useState<Course[]>([]);
@@ -34,8 +34,8 @@ export function CourseSearchPage() {
         await new Promise((res) => setTimeout(res, 1000));
         setCourses(mockCourses);
       } else {
-        // Send POST request to backend ML model
-        const response = await fetch("/score", {
+        // 🔗 Real backend call — sends user blurb to FastAPI ML model
+        const response = await fetch("http://127.0.0.1:8000/score", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
@@ -54,7 +54,7 @@ export function CourseSearchPage() {
           id: entry.id,
           title: entry.course,
           department: entry.id.split(" ")[0],
-          description: "No description provided", // Backend can provide this in the future
+          description: entry.description || "No description provided",
         }));
 
         setCourses(parsedCourses);
