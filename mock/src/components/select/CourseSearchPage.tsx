@@ -140,6 +140,19 @@ export function CourseSearchPage() {
 
         {/* Show the course recommendations */}
         <CourseResults courses={courses} />
+
+        {/* Helpful link to CAB for manual browsing */}
+        <div className="text-center mt-8 text-sm text-gray-500">
+          Not finding what you're looking for? You can also browse the{" "}
+          <a
+            href="https://cab.brown.edu/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 underline hover:text-blue-800"
+          >
+            Courses at Brown(CAB) website
+          </a>.
+        </div>
       </div>
     </div>
   );
