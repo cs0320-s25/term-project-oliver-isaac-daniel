@@ -4,7 +4,7 @@ import { BlurbInput } from "./BlurbInput";
 import { CourseResults } from "./CourseResults";
 import { mockCourses } from "../../mocks/mockedData";
 
-// Course type definition
+// Defines the structure of each course object
 export interface Course {
   title: string;
   department: string;
@@ -12,7 +12,7 @@ export interface Course {
   id?: string;
 }
 
-// Toggle between mock mode and real ML backend
+// Toggle between mock data and real ML backend
 const useMockData = false;
 
 export function CourseSearchPage() {
@@ -20,21 +20,28 @@ export function CourseSearchPage() {
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState<boolean>(false);
   const [submittedBlurb, setSubmittedBlurb] = useState<string>("");
+  const [inputError, setInputError] = useState<string | null>(null); // To show user-facing input errors
 
-  // Handles form submission when a blurb is entered
+  // Called when the user submits the input blurb
   const handleBlurbSubmit = async (blurb: string) => {
+    if (blurb.trim() === "") {
+      setInputError("Please enter a course description before searching.");
+      return;
+    }
+
+    setInputError(null); // Clear error if input is valid
     setSubmittedBlurb(blurb);
     setError(null);
-    setCourses([]); // Clear previous results while new request loads
+    setCourses([]);
     setLoading(true);
 
     try {
       if (useMockData) {
-        // Use fallback mock data (simulate delay to mimic backend)
+        // Use fallback mock data
         await new Promise((res) => setTimeout(res, 1000));
         setCourses(mockCourses);
       } else {
-        // 🔗 Real backend call — sends user blurb to FastAPI ML model
+        // Talk to the actual backend
         const response = await fetch("http://127.0.0.1:8000/score", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
@@ -62,28 +69,32 @@ export function CourseSearchPage() {
     } catch (err) {
       console.error("Error fetching results:", err);
       setError("Server error. Showing fallback mock data.");
-      setCourses(mockCourses); // Fallback
+      setCourses(mockCourses); // Still show something if backend fails
     } finally {
       setLoading(false);
     }
   };
 
-  // Resets the search session to allow a new blurb to be entered
+  // Allows the user to reset the form and try again
   const handleNewSearch = () => {
     setSubmittedBlurb("");
     setCourses([]);
     setError(null);
     setLoading(false);
+    setInputError(null);
   };
 
   return (
     <div className="min-h-[95vh] relative">
       <div className="w-full">
         <div className="search-container" aria-label="Course recommendation container">
-          {/* Input box for the user to describe their course interest */}
-          {!submittedBlurb && <BlurbInput onSubmit={handleBlurbSubmit} />}
+          {/* Input area shows only if user hasn’t submitted a blurb yet */}
+          {!submittedBlurb && (
+            <BlurbInput onSubmit={handleBlurbSubmit} error={inputError} />
+          )}
         </div>
 
+        {/* Show results message and "New Search" button */}
         {submittedBlurb && (
           <div style={{ marginTop: "1rem", textAlign: "center" }}>
             <p className="results-message"><strong>These are your results for:</strong> "{submittedBlurb}"</p>
@@ -99,35 +110,35 @@ export function CourseSearchPage() {
 
         <hr />
 
-        {/* Loading state */}
+        {/* While backend is loading */}
         {loading && (
           <div className="loading-message" aria-live="polite">
             Finding courses for you...
           </div>
         )}
 
-        {/* Error message */}
+        {/* If backend failed */}
         {error && (
           <div className="error-message" aria-live="assertive">
             {error}
           </div>
         )}
 
-        {/* Show message when no results are found */}
+        {/* If no results came back */}
         {!loading && submittedBlurb && courses.length === 0 && (
           <div className="no-results-message">
             <p><strong>No courses found for:</strong> "{submittedBlurb}"</p>
           </div>
         )}
 
-        {/* Example message when nothing is submitted yet */}
+        {/* Friendly nudge if they haven’t typed anything yet */}
         {!submittedBlurb && courses.length === 0 && !loading && (
           <div className="example-message" aria-label="Example blurb">
             <p><em>Try typing something like: "I want a class on chill ECON Class"</em></p>
           </div>
         )}
 
-        {/* Results list */}
+        {/* Show the course recommendations */}
         <CourseResults courses={courses} />
       </div>
     </div>
