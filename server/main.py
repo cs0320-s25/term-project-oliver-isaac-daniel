@@ -21,6 +21,7 @@ class CourseScore(BaseModel):
     course: str
     id: str
     score: float
+    description: str
 
 # Overall response
 class ScoreResponse(BaseModel):
@@ -45,7 +46,7 @@ def score_endpoint(request: ScoreRequest):
 
     # Build list of scored course results
     course_score_pairs = [
-        {"course": course["title"], "id": course["id"], "score": score, "department": course["department"]}
+        {"course": course["title"], "id": course["id"], "score": score, "description": course["description"]}
         for course, score in zip(all_courses, scores)
     ]
 
