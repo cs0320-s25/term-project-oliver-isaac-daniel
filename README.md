@@ -45,33 +45,30 @@ The **Course Recommendation System** is a full-stack application that recommends
 
 ### Class/Component Structure
 
+#### Frontend
+
+- `App.tsx`: Main application component
+- `BlurbInput.tsx`: Handles input of the search query/blurb
+- `CourseSearchPage.tsx`: Handles requests to Server and contains BlurbInput and CourseResults as components
+- `CourseResults.tsx`: Displays results after response has been recieved from Server
+
+#### Backend
+
 - `main.py`: Backend entrypoint with endpoints and error-handling logic
 - `scoring.py`: Contains modular functions for TF-IDF scoring, semantic matching, and department prioritization
+- `data.py`: Contains method allowing access to data extraced by Scraper
+- `test_main.py`: Contains integration testing for correct + edge case functionality on the server
+- `test_scoring.py`: Contains unit tests for the scoring algorithm, ensuring expected behavior
+
+#### Scraper
+
 - `scraper.py`: Uses BeautifulSoup and `requests` to extract and format course data
-- `frontend/`: React app with controlled input forms and card-style displays for results
-
-### Data Structures
-
-- Uses dictionaries for in-memory course storage and JSON files for static storage
-- NumPy arrays and vectorized operations for efficient semantic comparisons
-
-### Optimizations
-
-- Semantic similarity uses SentenceTransformer embeddings preloaded on startup
-- All scoring operations are batched and vectorized to reduce latency
 
 ---
 
 ## Known Errors and Bugs
 
 No known errors or bugs.
-
----
-
-## Checkstyle
-
-- No outstanding style violations. Used `black` for formatting and followed PEP8 guidelines.
-- ESLint clean on frontend codebase.
 
 ---
 
