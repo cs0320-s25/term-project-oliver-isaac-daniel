@@ -63,6 +63,7 @@ The **Course Recommendation System** is a full-stack application that recommends
 #### Scraper
 
 - `scraper.py`: Uses BeautifulSoup and `requests` to extract and format course data
+- `selectors.py`: Extracts data from individual course page
 
 ---
 
