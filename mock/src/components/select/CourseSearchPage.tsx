@@ -1,5 +1,10 @@
+// Import
 import { useState } from "react";
+
+// Import shared CSS styles
 import "../../styles/main.css";
+
+// Import child components and mock data
 import { BlurbInput } from "./BlurbInput";
 import { CourseResults } from "./CourseResults";
 import { mockCourses } from "../../mocks/mockedData";
@@ -8,13 +13,14 @@ import { mockCourses } from "../../mocks/mockedData";
 export interface Course {
   title: string;
   department: string;
-  description: string;
-  id?: string;
+  description: string; // Description is now expected from backend
+  id: string; // Course Nu
 }
 
 // Toggle between mock data and real ML backend
 const useMockData = false;
 
+// Main component that handles user interaction, data fetching, and rendering
 export function CourseSearchPage() {
   const [courses, setCourses] = useState<Course[]>([]);
   const [error, setError] = useState<string | null>(null);
@@ -46,24 +52,25 @@ export function CourseSearchPage() {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
-            user_blurb: blurb,
-            pref_departments: [],
-            num_courses: 10,
-            alpha: 0.5,
+            user_blurb: blurb, // User's input
+            pref_departments: [], // Currently unused, could filter by department
+            num_courses: 10, // Number of courses to return
+            alpha: 0.5, // Hyperparameter (e.g., weighting for filtering)
           }),
         });
 
         if (!response.ok) throw new Error("Server error");
 
+        // Parse response and map results to course format
         const result = await response.json();
-
         const parsedCourses = result.results.map((entry: any) => ({
           id: entry.id,
           title: entry.course,
-          department: entry.id.split(" ")[0],
-          description: entry.description || "No description provided",
+          department: entry.id.split(" ")[0], // Fallback for department name
+          description: entry.description || "No description provided", // Fallback if description is missing
         }));
 
+        // Update state with fetched results
         setCourses(parsedCourses);
       }
     } catch (err) {
@@ -71,7 +78,7 @@ export function CourseSearchPage() {
       setError("Server error. Showing fallback mock data.");
       setCourses(mockCourses); // Still show something if backend fails
     } finally {
-      setLoading(false);
+      setLoading(false); // End loading state
     }
   };
 
@@ -84,10 +91,15 @@ export function CourseSearchPage() {
     setInputError(null);
   };
 
+  // JSX to render the UI
   return (
     <div className="min-h-[95vh] relative">
       <div className="w-full">
-        <div className="search-container" aria-label="Course recommendation container">
+        {/* Container for the input form */}
+        <div
+          className="search-container"
+          aria-label="Course recommendation container"
+        >
           {/* Input area shows only if user hasn’t submitted a blurb yet */}
           {!submittedBlurb && (
             <BlurbInput onSubmit={handleBlurbSubmit} error={inputError} />
@@ -97,7 +109,9 @@ export function CourseSearchPage() {
         {/* Show results message and "New Search" button */}
         {submittedBlurb && (
           <div style={{ marginTop: "1rem", textAlign: "center" }}>
-            <p className="results-message"><strong>These are your results for:</strong> "{submittedBlurb}"</p>
+            <p className="results-message">
+              <strong>These are your results for:</strong> "{submittedBlurb}"
+            </p>
             <button
               onClick={handleNewSearch}
               className="border px-4 py-2 rounded hover:bg-gray-100"
@@ -127,21 +141,27 @@ export function CourseSearchPage() {
         {/* If no results came back */}
         {!loading && submittedBlurb && courses.length === 0 && (
           <div className="no-results-message">
-            <p><strong>No courses found for:</strong> "{submittedBlurb}"</p>
+            <p>
+              <strong>No courses found for:</strong> "{submittedBlurb}"
+            </p>
           </div>
         )}
 
         {/* Friendly nudge if they haven’t typed anything yet */}
         {!submittedBlurb && courses.length === 0 && !loading && (
           <div className="example-message" aria-label="Example blurb">
-            <p><em>Try typing something like: "I want a class on chill ECON Class"</em></p>
+            <p>
+              <em>
+                Try typing something like: "I want a class on chill ECON Class"
+              </em>
+            </p>
           </div>
         )}
 
         {/* Show the course recommendations */}
         <CourseResults courses={courses} />
 
-        {/* Helpful link to CAB for manual browsing */}
+        {/* Optional help link to external CAB (Courses at Brown) website */}
         <div className="text-center mt-8 text-sm text-gray-500">
           Not finding what you're looking for? You can also browse the{" "}
           <a
@@ -150,8 +170,9 @@ export function CourseSearchPage() {
             rel="noopener noreferrer"
             className="text-blue-600 underline hover:text-blue-800"
           >
-            Courses at Brown(CAB) website
-          </a>.
+            Courses at Brown (CAB) website
+          </a>
+          .
         </div>
       </div>
     </div>

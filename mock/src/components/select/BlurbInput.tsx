@@ -1,22 +1,42 @@
+// Import the useState hook from React to manage local state
 import { useState } from "react";
+
+// Import styles from a CSS file
 import "../../styles/main.css";
 
+// Define the expected props for this component using TypeScript
+// The component expects an `onSubmit` function that takes a string and returns void
 interface BlurbInputProps {
   onSubmit: (blurb: string) => void;
-  error?: string | null; // Message from parent if input is invalid
 }
 
-export function BlurbInput({ onSubmit, error }: BlurbInputProps) {
+// Define the functional React component `BlurbInput` and destructure the `onSubmit` prop
+export function BlurbInput({ onSubmit }: BlurbInputProps) {
+  // Declare a piece of state called `inputValue` to track the user's input
+  // Initially, it's set to an empty string
   const [inputValue, setInputValue] = useState("");
 
-  // Always notify the parent on submit (even if empty)
+  // Define a handler function to process the form submission
   const handleSubmit = () => {
-    onSubmit(inputValue); // Let parent decide if it's valid
+    // Only proceed if the input is not empty after trimming whitespace
+    if (inputValue.trim() !== "") {
+      // Call the onSubmit function passed in via props with the cleaned input
+      onSubmit(inputValue.trim());
+      // Reset the input field to an empty string
+      setInputValue("");
+    }
   };
 
+  // Render the component's UI
   return (
     <div className="input-container" aria-live="polite">
-      {/* Where the user describes what they're looking for */}
+      {/* 
+        Render a textarea input field
+        - Binds its value to `inputValue`
+        - Updates the state on every keystroke via `onChange`
+        - Includes ARIA label for accessibility
+        - Uses placeholder text to guide the user
+      */}
       <textarea
         className="input-textarea"
         value={inputValue}
@@ -25,22 +45,19 @@ export function BlurbInput({ onSubmit, error }: BlurbInputProps) {
         aria-label="Course description input"
         rows={4}
       />
-      
-      {/* Triggers course search */}
-      <button 
-        className="submit-button" 
-        onClick={handleSubmit} 
+
+      {/* 
+        Render a button that submits the input
+        - When clicked, runs the `handleSubmit` function
+        - ARIA label helps screen readers describe its purpose
+      */}
+      <button
+        className="submit-button"
+        onClick={handleSubmit}
         aria-label="Submit course blurb"
       >
         Find Courses
       </button>
-
-      {/* Error text, if any */}
-      {error && (
-        <p className="text-red-600 text-sm mt-2" aria-live="polite">
-          {error}
-        </p>
-      )}
     </div>
   );
 }
