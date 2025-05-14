@@ -9,7 +9,7 @@ import { BlurbInput } from "./BlurbInput";
 import { CourseResults } from "./CourseResults";
 import { mockCourses } from "../../mocks/mockedData";
 
-// Defines the structure of each course object
+// Define the structure of a Course object to ensure strong typing across components
 export interface Course {
   title: string;
   department: string;
@@ -17,37 +17,31 @@ export interface Course {
   id: string; // Course Nu
 }
 
-// Toggle between mock data and real ML backend
+// Toggle between using mock data and real backend calls
 const useMockData = false;
 
 // Main component that handles user interaction, data fetching, and rendering
 export function CourseSearchPage() {
-  const [courses, setCourses] = useState<Course[]>([]);
-  const [error, setError] = useState<string | null>(null);
-  const [loading, setLoading] = useState<boolean>(false);
-  const [submittedBlurb, setSubmittedBlurb] = useState<string>("");
-  const [inputError, setInputError] = useState<string | null>(null); // To show user-facing input errors
+  // State hooks
+  const [courses, setCourses] = useState<Course[]>([]); // List of courses to display
+  const [error, setError] = useState<string | null>(null); // Error message (if any)
+  const [loading, setLoading] = useState<boolean>(false); // Indicates loading state
+  const [submittedBlurb, setSubmittedBlurb] = useState<string>(""); // Stores the user's input
 
-  // Called when the user submits the input blurb
+  // Handler function triggered when the user submits a blurb
   const handleBlurbSubmit = async (blurb: string) => {
-    if (blurb.trim() === "") {
-      setInputError("Please enter a course description before searching.");
-      return;
-    }
-
-    setInputError(null); // Clear error if input is valid
-    setSubmittedBlurb(blurb);
-    setError(null);
-    setCourses([]);
-    setLoading(true);
+    setSubmittedBlurb(blurb); // Save the blurb
+    setError(null); // Clear previous errors
+    setCourses([]); // Reset courses list
+    setLoading(true); // Show loading message
 
     try {
       if (useMockData) {
-        // Use fallback mock data
+        // Simulate backend delay and use mock data
         await new Promise((res) => setTimeout(res, 1000));
         setCourses(mockCourses);
       } else {
-        // Talk to the actual backend
+        // Make POST request to FastAPI ML backend
         const response = await fetch("http://127.0.0.1:8000/score", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
@@ -76,13 +70,13 @@ export function CourseSearchPage() {
     } catch (err) {
       console.error("Error fetching results:", err);
       setError("Server error. Showing fallback mock data.");
-      setCourses(mockCourses); // Still show something if backend fails
+      setCourses(mockCourses); // Use mock data as fallback
     } finally {
       setLoading(false); // End loading state
     }
   };
 
-  // Allows the user to reset the form and try again
+  // Handler to reset the search page so the user can submit a new blurb
   const handleNewSearch = () => {
     setSubmittedBlurb("");
     setCourses([]);
@@ -100,13 +94,11 @@ export function CourseSearchPage() {
           className="search-container"
           aria-label="Course recommendation container"
         >
-          {/* Input area shows only if user hasn’t submitted a blurb yet */}
-          {!submittedBlurb && (
-            <BlurbInput onSubmit={handleBlurbSubmit} error={inputError} />
-          )}
+          {/* Only show input form if user hasn't submitted a blurb yet */}
+          {!submittedBlurb && <BlurbInput onSubmit={handleBlurbSubmit} />}
         </div>
 
-        {/* Show results message and "New Search" button */}
+        {/* If a blurb has been submitted, show the result label and a reset button */}
         {submittedBlurb && (
           <div style={{ marginTop: "1rem", textAlign: "center" }}>
             <p className="results-message">
@@ -124,21 +116,21 @@ export function CourseSearchPage() {
 
         <hr />
 
-        {/* While backend is loading */}
+        {/* Show a loading message while waiting for backend response */}
         {loading && (
           <div className="loading-message" aria-live="polite">
             Finding courses for you...
           </div>
         )}
 
-        {/* If backend failed */}
+        {/* Show an error message if something went wrong */}
         {error && (
           <div className="error-message" aria-live="assertive">
             {error}
           </div>
         )}
 
-        {/* If no results came back */}
+        {/* Show a "no results" message if backend responds but returns nothing */}
         {!loading && submittedBlurb && courses.length === 0 && (
           <div className="no-results-message">
             <p>
@@ -147,7 +139,7 @@ export function CourseSearchPage() {
           </div>
         )}
 
-        {/* Friendly nudge if they haven’t typed anything yet */}
+        {/* Initial example text to guide the user before they type anything */}
         {!submittedBlurb && courses.length === 0 && !loading && (
           <div className="example-message" aria-label="Example blurb">
             <p>
@@ -158,7 +150,7 @@ export function CourseSearchPage() {
           </div>
         )}
 
-        {/* Show the course recommendations */}
+        {/* Display the list of course results */}
         <CourseResults courses={courses} />
 
         {/* Optional help link to external CAB (Courses at Brown) website */}

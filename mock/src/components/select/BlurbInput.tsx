@@ -51,6 +51,12 @@ export function BlurbInput({ onSubmit }: BlurbInputProps) {
         - When clicked, runs the `handleSubmit` function
         - ARIA label helps screen readers describe its purpose
       */}
+
+      {/* 
+        Render a button that submits the input
+        - When clicked, runs the `handleSubmit` function
+        - ARIA label helps screen readers describe its purpose
+      */}
       <button
         className="submit-button"
         onClick={handleSubmit}
