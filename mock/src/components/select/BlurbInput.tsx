@@ -45,15 +45,21 @@ export function BlurbInput({ onSubmit }: BlurbInputProps) {
         aria-label="Course description input"
         rows={4}
       />
-      
+
       {/* 
         Render a button that submits the input
         - When clicked, runs the `handleSubmit` function
         - ARIA label helps screen readers describe its purpose
       */}
-      <button 
-        className="submit-button" 
-        onClick={handleSubmit} 
+
+      {/* 
+        Render a button that submits the input
+        - When clicked, runs the `handleSubmit` function
+        - ARIA label helps screen readers describe its purpose
+      */}
+      <button
+        className="submit-button"
+        onClick={handleSubmit}
         aria-label="Submit course blurb"
       >
         Find Courses

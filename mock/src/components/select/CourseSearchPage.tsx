@@ -1,4 +1,4 @@
-// Import 
+// Import
 import { useState } from "react";
 
 // Import shared CSS styles
@@ -30,10 +30,10 @@ export function CourseSearchPage() {
 
   // Handler function triggered when the user submits a blurb
   const handleBlurbSubmit = async (blurb: string) => {
-    setSubmittedBlurb(blurb);     // Save the blurb
-    setError(null);               // Clear previous errors
-    setCourses([]);               // Reset courses list
-    setLoading(true);             // Show loading message
+    setSubmittedBlurb(blurb); // Save the blurb
+    setError(null); // Clear previous errors
+    setCourses([]); // Reset courses list
+    setLoading(true); // Show loading message
 
     try {
       if (useMockData) {
@@ -46,10 +46,10 @@ export function CourseSearchPage() {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
-            user_blurb: blurb,          // User's input
-            pref_departments: [],       // Currently unused, could filter by department
-            num_courses: 10,            // Number of courses to return
-            alpha: 0.5,                 // Hyperparameter (e.g., weighting for filtering)
+            user_blurb: blurb, // User's input
+            pref_departments: [], // Currently unused, could filter by department
+            num_courses: 10, // Number of courses to return
+            alpha: 0.5, // Hyperparameter (e.g., weighting for filtering)
           }),
         });
 
@@ -60,7 +60,7 @@ export function CourseSearchPage() {
         const parsedCourses = result.results.map((entry: any) => ({
           id: entry.id,
           title: entry.course,
-          department: entry.id.split(" ")[0],  // Fallback for department name
+          department: entry.id.split(" ")[0], // Fallback for department name
           description: entry.description || "No description provided", // Fallback if description is missing
         }));
 
@@ -82,15 +82,18 @@ export function CourseSearchPage() {
     setCourses([]);
     setError(null);
     setLoading(false);
+    setInputError(null);
   };
 
   // JSX to render the UI
   return (
     <div className="min-h-[95vh] relative">
       <div className="w-full">
-
         {/* Container for the input form */}
-        <div className="search-container" aria-label="Course recommendation container">
+        <div
+          className="search-container"
+          aria-label="Course recommendation container"
+        >
           {/* Only show input form if user hasn't submitted a blurb yet */}
           {!submittedBlurb && <BlurbInput onSubmit={handleBlurbSubmit} />}
         </div>
@@ -130,14 +133,20 @@ export function CourseSearchPage() {
         {/* Show a "no results" message if backend responds but returns nothing */}
         {!loading && submittedBlurb && courses.length === 0 && (
           <div className="no-results-message">
-            <p><strong>No courses found for:</strong> "{submittedBlurb}"</p>
+            <p>
+              <strong>No courses found for:</strong> "{submittedBlurb}"
+            </p>
           </div>
         )}
 
         {/* Initial example text to guide the user before they type anything */}
         {!submittedBlurb && courses.length === 0 && !loading && (
           <div className="example-message" aria-label="Example blurb">
-            <p><em>Try typing something like: "I want a class on chill ECON Class"</em></p>
+            <p>
+              <em>
+                Try typing something like: "I want a class on chill ECON Class"
+              </em>
+            </p>
           </div>
         )}
 
@@ -154,7 +163,8 @@ export function CourseSearchPage() {
             className="text-blue-600 underline hover:text-blue-800"
           >
             Courses at Brown (CAB) website
-          </a>.
+          </a>
+          .
         </div>
       </div>
     </div>
