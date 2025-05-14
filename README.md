@@ -74,12 +74,28 @@ No known errors or bugs.
 
 ## Testing
 
-Tests cover:
+#### Frontend
+
+- Application Navigation
+- Course Search Input
+- Course Description Submission
+- New Search Functionality
+
+#### Backend
 
 - Scoring correctness (unit tests for each scoring method)
 - API input validation
 - Edge case inputs (empty query, invalid department, overly long input)
 - CORS compliance
+
+To run the frontend tests:
+
+Navigate to the mock directory
+
+```
+npx playwright install
+npx playwright test
+```
 
 To run the server tests:
 
